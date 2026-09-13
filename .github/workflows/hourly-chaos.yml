@@ -1,0 +1,67 @@
+name: Hourly Chaos Bot
+
+on:
+  schedule:
+    # Every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:  # manual trigger from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  inject:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate random chaos artifact
+        id: chaos
+        run: |
+          set -e
+          STAMP=$(date -u +%Y%m%d-%H%M%S)
+          FILE="auto-chaos/chaos-${STAMP}.txt"
+          mkdir -p auto-chaos
+
+          DECREES=(
+            "Scooters are mandatory for the next hour."
+            "A random node was infected while you weren't looking."
+            "Homework threat level has been temporarily raised then ignored."
+            "The MelonKing yawned. Chaos increased by 3%."
+            "This file was written by a robot with no sense of order."
+            "Boredom attempted to enter the repo and was rejected."
+            "Long live the scooters. This message will self-repeat hourly."
+            "Grade 5 energy detected. Deploying more nonsense."
+            "Keyboard smash translated: everything is fine (it is not)."
+            "Free time has been extended by one hour. You're welcome."
+          )
+          N=${#DECREES[@]}
+          IDX=$((RANDOM % N))
+          PICK="${DECREES[$IDX]}"
+
+          {
+            echo "HOURLY CHAOS DISPATCH"
+            echo "======================"
+            echo "UTC time: $(date -u)"
+            echo ""
+            echo "$PICK"
+            echo ""
+            echo "— automated MelonKing systems"
+          } > "$FILE"
+
+          echo "file=$FILE" >> "$GITHUB_OUTPUT"
+          echo "Created $FILE"
+          cat "$FILE"
+
+      - name: Commit and push
+        run: |
+          git config user.name "MelonKing Chaos Bot"
+          git config user.email "chaos-bot@users.noreply.github.com"
+          git add auto-chaos/
+          if git diff --staged --quiet; then
+            echo "Nothing new to commit"
+            exit 0
+          fi
+          git commit -m "Hourly chaos: $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
