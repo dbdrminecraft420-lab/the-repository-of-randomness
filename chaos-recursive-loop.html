@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>♾️ Recursive Chaos</title>
+  <style>
+    body { background:#0a0a12; color:#e94560; font-family:system-ui; display:flex; flex-direction:column; align-items:center; justify-content:center; min-height:100vh; margin:0; text-align:center; }
+    h1 { font-size:3rem; }
+    #counter { font-size:4rem; color:#fbbf24; }
+    button { margin-top:1.5rem; padding:1rem 2rem; font-size:1.2rem; background:#e94560; color:white; border:none; border-radius:8px; cursor:pointer; }
+  </style>
+</head>
+<body>
+  <h1>♾️ CHAOS LEVEL</h1>
+  <div id="counter">1</div>
+  <p>Click to multiply. There is no upper limit.</p>
+  <button onclick="more()">MULTIPLY CHAOS</button>
+  <script>
+    let n = 1;
+    function more() {
+      n = n >= 1000000 ? '♾️' : n * 2;
+      document.getElementById('counter').textContent = n;
+      if (n === '♾️') document.querySelector('p').textContent = 'Maximum disorder achieved. Long live the scooters.';
+    }
+  </script>
+</body>
+</html>
