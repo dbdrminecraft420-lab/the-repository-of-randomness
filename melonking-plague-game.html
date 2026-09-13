@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>MelonKing Plague — Chaos Infection Game</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Inter:wght@400;700&display=swap');
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #0f0f1a; color: #eaeaea; font-family: 'Inter', system-ui, sans-serif; min-height: 100vh; display: flex; flex-direction: column; align-items: center; padding: 20px; }
+  h1 { font-family: 'Press Start 2P', monospace; font-size: 18px; color: #e94560; margin-bottom: 8px; text-align: center; }
+  .subtitle { color: #888; margin-bottom: 20px; font-size: 14px; }
+  #game { background: #1a1a2e; border: 3px solid #e94560; border-radius: 12px; padding: 16px; max-width: 640px; width: 100%; }
+  canvas { display: block; width: 100%; background: #0a0a12; border-radius: 8px; cursor: crosshair; }
+  .hud { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 12px; margin-top: 14px; font-size: 14px; }
+  .stat { background: #16213e; padding: 8px 12px; border-radius: 6px; }
+  .stat span { font-weight: 700; }
+  .sane { color: #4ade80; } .infected { color: #e94560; } .recovered { color: #fbbf24; }
+  .controls { margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; }
+  button { background: #e94560; color: white; border: none; padding: 10px 18px; border-radius: 6px; font-weight: 700; cursor: pointer; font-size: 14px; }
+  button:hover { background: #ff6b81; } button.secondary { background: #533483; } button:disabled { opacity: 0.5; cursor: not-allowed; }
+  .msg { margin-top: 14px; text-align: center; min-height: 24px; color: #fbbf24; font-size: 14px; }
+  .legend { margin-top: 12px; font-size: 12px; color: #888; text-align: center; }
+</style>
+</head>
+<body>
+  <h1>MELONKING PLAGUE</h1>
+  <div class="subtitle">Click nodes to seed chaos • Watch it spread • Survive or convert</div>
+  <div id="game">
+    <canvas id="c" width="600" height="400"></canvas>
+    <div class="hud">
+      <div class="stat">Day: <span id="day">0</span></div>
+      <div class="stat sane">Sane: <span id="sane">0</span></div>
+      <div class="stat infected">Chaos: <span id="infected">0</span></div>
+      <div class="stat recovered">Changed: <span id="recovered">0</span></div>
+    </div>
+    <div class="controls">
+      <button id="startBtn">Start Simulation</button>
+      <button id="seedBtn" class="secondary">Random Seed (5)</button>
+      <button id="resetBtn" class="secondary">Reset</button>
+    </div>
+    <div class="msg" id="msg">Click any nodes to infect them, then press Start</div>
+    <div class="legend">Green = Sane • Red = Infected by Chaos • Gold = Recovered but changed</div>
+  </div>
+<script>
+const canvas = document.getElementById('c');
+const ctx = canvas.getContext('2d');
+const W = canvas.width, H = canvas.height;
+const N = 80;
+const nodes = [];
+const edges = [];
+let running = false;
+let day = 0;
+let timer = null;
+for (let i = 0; i < N; i++) {
+  nodes.push({ id: i, x: 40 + Math.random() * (W - 80), y: 40 + Math.random() * (H - 80), state: 'S', r: 7 });
+}
+for (let i = 0; i < N; i++) {
+  for (let j = i + 1; j < N; j++) {
+    const dx = nodes[i].x - nodes[j].x;
+    const dy = nodes[i].y - nodes[j].y;
+    const dist = Math.sqrt(dx*dx + dy*dy);
+    if (dist < 90 && Math.random() < 0.35) edges.push([i, j]);
+  }
+}
+for (let i = 1; i < N; i++) {
+  if (!edges.some(e => e[0] === i || e[1] === i)) edges.push([i, i-1]);
+}
+function counts() {
+  let s=0, i=0, r=0;
+  nodes.forEach(n => { if (n.state === 'S') s++; else if (n.state === 'I') i++; else r++; });
+  return {s, i, r};
+}
+function draw() {
+  ctx.fillStyle = '#0a0a12'; ctx.fillRect(0, 0, W, H);
+  ctx.strokeStyle = '#2a2a4a'; ctx.lineWidth = 1;
+  edges.forEach(([a,b]) => { ctx.beginPath(); ctx.moveTo(nodes[a].x, nodes[a].y); ctx.lineTo(nodes[b].x, nodes[b].y); ctx.stroke(); });
+  nodes.forEach(n => {
+    ctx.beginPath(); ctx.arc(n.x, n.y, n.r, 0, Math.PI*2);
+    if (n.state === 'S') ctx.fillStyle = '#4ade80';
+    else if (n.state === 'I') ctx.fillStyle = '#e94560';
+    else ctx.fillStyle = '#fbbf24';
+    ctx.fill();
+    if (n.state === 'I') { ctx.strokeStyle = '#ff8a9a'; ctx.lineWidth = 2; ctx.stroke(); }
+  });
+  const c = counts();
+  document.getElementById('day').textContent = day;
+  document.getElementById('sane').textContent = c.s;
+  document.getElementById('infected').textContent = c.i;
+  document.getElementById('recovered').textContent = c.r;
+}
+function step() {
+  const newI = [], newR = [];
+  nodes.forEach(n => {
+    if (n.state !== 'I') return;
+    if (Math.random() < 0.04) newR.push(n);
+    else {
+      edges.forEach(([a,b]) => {
+        let other = a === n.id ? nodes[b] : (b === n.id ? nodes[a] : null);
+        if (other && other.state === 'S' && Math.random() < 0.22) newI.push(other);
+      });
+    }
+  });
+  newI.forEach(n => n.state = 'I');
+  newR.forEach(n => n.state = 'R');
+  day++;
+  const c = counts();
+  if (c.i === 0) {
+    stop();
+    document.getElementById('msg').textContent = c.s === 0 ? 'Total conversion. The MelonKing reigns.' : 'Chaos contained… for now.';
+  }
+  draw();
+}
+function start() {
+  if (running) return;
+  if (counts().i === 0) { document.getElementById('msg').textContent = 'Infect at least one node first (click them)!'; return; }
+  running = true;
+  document.getElementById('startBtn').disabled = true;
+  document.getElementById('msg').textContent = 'Simulation running…';
+  timer = setInterval(step, 350);
+}
+function stop() { running = false; clearInterval(timer); document.getElementById('startBtn').disabled = false; }
+function reset() {
+  stop(); day = 0; nodes.forEach(n => n.state = 'S');
+  document.getElementById('msg').textContent = 'Click nodes to seed chaos, then press Start'; draw();
+}
+function randomSeed() {
+  reset();
+  const idxs = [];
+  while (idxs.length < 5) { const i = Math.floor(Math.random() * N); if (!idxs.includes(i)) idxs.push(i); }
+  idxs.forEach(i => nodes[i].state = 'I');
+  document.getElementById('msg').textContent = '5 random nodes infected. Press Start.'; draw();
+}
+canvas.addEventListener('click', e => {
+  if (running) return;
+  const rect = canvas.getBoundingClientRect();
+  const x = (e.clientX - rect.left) * (W / rect.width);
+  const y = (e.clientY - rect.top) * (H / rect.height);
+  for (const n of nodes) {
+    const dx = n.x - x, dy = n.y - y;
+    if (dx*dx + dy*dy < (n.r+6)*(n.r+6)) { n.state = n.state === 'S' ? 'I' : 'S'; draw(); break; }
+  }
+});
+document.getElementById('startBtn').onclick = start;
+document.getElementById('seedBtn').onclick = randomSeed;
+document.getElementById('resetBtn').onclick = reset;
+draw();
+</script>
+</body>
+</html>
