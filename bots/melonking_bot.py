@@ -26,6 +26,7 @@ DECREES = [
     "The phrase 'I don't care' is valid academic discourse.",
     "Chaos spreads faster on weekends.",
     "Long live the scooters. Long live the MelonKing.",
+    "Sunday night is official scooter maintenance hour. Meetings may wait in the hallway.",
 ]
 
 FACTS = [
@@ -35,6 +36,7 @@ FACTS = [
     "There is no known vaccine for MelonKing propaganda.",
     "The Repository of Randomness is an official chaos sanctuary.",
     "Sane nodes are just nodes that haven't clicked yet.",
+    "Newfoundland time is 2.5 hours ahead of chaos, which is why decrees arrive late.",
 ]
 
 STATUSES = [
