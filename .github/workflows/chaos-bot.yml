@@ -1,0 +1,33 @@
+name: MelonKing Chaos Bot
+
+on:
+  schedule:
+    # Run once a week (Sunday 15:00 UTC) — chaos prefers weekends
+    - cron: '0 15 * * 0'
+  workflow_dispatch:  # Allow manual runs from the Actions tab
+  push:
+    branches: [main]
+
+jobs:
+  chaos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run MelonKing Chaos Bot
+        run: |
+          echo "========================================"
+          echo "  Automated Chaos Dispatch"
+          echo "========================================"
+          python bots/melonking_bot.py --all
+
+      - name: Leave a chaos marker
+        run: |
+          echo "Chaos bot executed at $(date -u)" >> chaos-log.txt
+          echo "The MelonKing was here." >> chaos-log.txt
