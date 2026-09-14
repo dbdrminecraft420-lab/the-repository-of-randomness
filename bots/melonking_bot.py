@@ -33,6 +33,7 @@ DECREES = [
     "03:02 NDT is Fog Inventory o'clock. Count leftover Tuesdays or perish stylishly.",
     "05:00 NDT is the official yawn of the realm. Refrigerators may file weather reports.",
     "06:02 NDT is Committee of Unrelated Thoughts breakfast. The toast is optional; the decree is not.",
+    "07:00 NDT is breakfast-as-legal-document hour. Rind required.",
 ]
 
 FACTS = [
@@ -49,6 +50,7 @@ FACTS = [
     "03:02 NDT drafts are legally poetry until someone hits send.",
     "05:00 NDT is when leftover Tuesdays attempt to unionize.",
     "06:02 NDT calendars believe scooters can RSVP.",
+    "07:00 NDT drafts outnumber sent emails by a factor of melon.",
 ]
 
 STATUSES = [
@@ -61,6 +63,7 @@ STATUSES = [
     "Fog inventory: in progress",
     "Yawn index: legally binding",
     "Breakfast decree: toasted",
+    "07:00 NDT: rind notarized",
 ]
 
 def banner():
