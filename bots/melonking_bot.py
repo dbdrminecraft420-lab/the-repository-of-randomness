@@ -27,6 +27,7 @@ DECREES = [
     "Chaos spreads faster on weekends.",
     "Long live the scooters. Long live the MelonKing.",
     "Sunday night is official scooter maintenance hour. Meetings may wait in the hallway.",
+    "Triple-skill mashups are legal after 22:00 NDT.",
 ]
 
 FACTS = [
@@ -37,6 +38,7 @@ FACTS = [
     "The Repository of Randomness is an official chaos sanctuary.",
     "Sane nodes are just nodes that haven't clicked yet.",
     "Newfoundland time is 2.5 hours ahead of chaos, which is why decrees arrive late.",
+    "A Gmail label named CHAOS-Experiment is a civic landmark.",
 ]
 
 STATUSES = [
