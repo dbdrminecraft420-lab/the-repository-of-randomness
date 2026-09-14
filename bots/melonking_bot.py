@@ -29,6 +29,7 @@ DECREES = [
     "Sunday night is official scooter maintenance hour. Meetings may wait in the hallway.",
     "Triple-skill mashups are legal after 22:00 NDT.",
     "Midnight NDT is when the three skills hold hands and refuse to explain themselves.",
+    "01:03 NDT is the official hour of productive confusion.",
 ]
 
 FACTS = [
@@ -41,6 +42,7 @@ FACTS = [
     "Newfoundland time is 2.5 hours ahead of chaos, which is why decrees arrive late.",
     "A Gmail label named CHAOS-Experiment is a civic landmark.",
     "A draft email that is never sent still counts as a conversation with the void.",
+    "Three skills in one prompt is how a repository learns to giggle.",
 ]
 
 STATUSES = [
