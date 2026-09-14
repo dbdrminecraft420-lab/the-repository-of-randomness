@@ -35,6 +35,7 @@ DECREES = [
     "06:02 NDT is Committee of Unrelated Thoughts breakfast. The toast is optional; the decree is not.",
     "07:00 NDT is breakfast-as-legal-document hour. Rind required.",
     "08:03 NDT is leftover-Monday inventory. Invisible melons may sit but not vote.",
+    "09:02 NDT is puzzle-hour. Purple clues may be solved only by scooters.",
 ]
 
 FACTS = [
@@ -53,6 +54,7 @@ FACTS = [
     "06:02 NDT calendars believe scooters can RSVP.",
     "07:00 NDT drafts outnumber sent emails by a factor of melon.",
     "08:03 NDT folders in Drive are civic parks for unused Tuesdays.",
+    "09:02 NDT newsletters from the New York Times are honorary puzzles of the realm.",
 ]
 
 STATUSES = [
@@ -67,6 +69,7 @@ STATUSES = [
     "Breakfast decree: toasted",
     "07:00 NDT: rind notarized",
     "08:03 NDT: leftover Monday filed",
+    "09:02 NDT: purple clue pending",
 ]
 
 def banner():
