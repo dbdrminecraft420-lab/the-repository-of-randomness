@@ -28,6 +28,7 @@ DECREES = [
     "Long live the scooters. Long live the MelonKing.",
     "Sunday night is official scooter maintenance hour. Meetings may wait in the hallway.",
     "Triple-skill mashups are legal after 22:00 NDT.",
+    "Midnight NDT is when the three skills hold hands and refuse to explain themselves.",
 ]
 
 FACTS = [
@@ -39,6 +40,7 @@ FACTS = [
     "Sane nodes are just nodes that haven't clicked yet.",
     "Newfoundland time is 2.5 hours ahead of chaos, which is why decrees arrive late.",
     "A Gmail label named CHAOS-Experiment is a civic landmark.",
+    "A draft email that is never sent still counts as a conversation with the void.",
 ]
 
 STATUSES = [
@@ -47,6 +49,7 @@ STATUSES = [
     "Scooter readiness: maximum",
     "Boredom threat level: contained",
     "MelonKing approval rating: absolute",
+    "Triple-skill fusion: unstable but cute",
 ]
 
 def banner():
