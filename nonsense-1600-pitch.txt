@@ -1,0 +1,3 @@
+PRODUCT: Refrigerator Diplomacy Kit
+FEATURES: negotiates leftovers, files fruit taxes, refuses to send drafts.
+PRICE: three scooters and a committee minute.
