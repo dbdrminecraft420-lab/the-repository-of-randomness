@@ -32,6 +32,7 @@ DECREES = [
     "01:03 NDT is the official hour of productive confusion.",
     "03:02 NDT is Fog Inventory o'clock. Count leftover Tuesdays or perish stylishly.",
     "05:00 NDT is the official yawn of the realm. Refrigerators may file weather reports.",
+    "06:02 NDT is Committee of Unrelated Thoughts breakfast. The toast is optional; the decree is not.",
 ]
 
 FACTS = [
@@ -47,6 +48,7 @@ FACTS = [
     "Three skills in one prompt is how a repository learns to giggle.",
     "03:02 NDT drafts are legally poetry until someone hits send.",
     "05:00 NDT is when leftover Tuesdays attempt to unionize.",
+    "06:02 NDT calendars believe scooters can RSVP.",
 ]
 
 STATUSES = [
@@ -58,6 +60,7 @@ STATUSES = [
     "Triple-skill fusion: unstable but cute",
     "Fog inventory: in progress",
     "Yawn index: legally binding",
+    "Breakfast decree: toasted",
 ]
 
 def banner():
