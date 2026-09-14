@@ -31,6 +31,7 @@ DECREES = [
     "Midnight NDT is when the three skills hold hands and refuse to explain themselves.",
     "01:03 NDT is the official hour of productive confusion.",
     "03:02 NDT is Fog Inventory o'clock. Count leftover Tuesdays or perish stylishly.",
+    "05:00 NDT is the official yawn of the realm. Refrigerators may file weather reports.",
 ]
 
 FACTS = [
@@ -45,6 +46,7 @@ FACTS = [
     "A draft email that is never sent still counts as a conversation with the void.",
     "Three skills in one prompt is how a repository learns to giggle.",
     "03:02 NDT drafts are legally poetry until someone hits send.",
+    "05:00 NDT is when leftover Tuesdays attempt to unionize.",
 ]
 
 STATUSES = [
@@ -55,6 +57,7 @@ STATUSES = [
     "MelonKing approval rating: absolute",
     "Triple-skill fusion: unstable but cute",
     "Fog inventory: in progress",
+    "Yawn index: legally binding",
 ]
 
 def banner():
