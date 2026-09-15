@@ -32,6 +32,7 @@ DECREES = [
     "01:03 NDT is the official hour of productive confusion.",
     "03:02 NDT is Fog Inventory o'clock. Count leftover Tuesdays or perish stylishly.",
     "05:00 NDT is the official yawn of the realm. Refrigerators may file weather reports.",
+    "05:00 NDT leftover Tuesdays may unionize only if they bring rind.",
     "06:02 NDT is Committee of Unrelated Thoughts breakfast. The toast is optional; the decree is not.",
     "07:00 NDT is breakfast-as-legal-document hour. Rind required.",
     "08:03 NDT is leftover-Monday inventory. Invisible melons may sit but not vote.",
@@ -79,6 +80,7 @@ STATUSES = [
     "10:19 NDT: trail petition accepted",
     "12:20 NDT: lunch legally a meeting",
     "23:03 NDT: refrigerator still unconsulted",
+    "05:00 NDT: leftover Tuesday union pending rind",
 ]
 
 def banner():
