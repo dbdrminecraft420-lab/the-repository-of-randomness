@@ -38,6 +38,7 @@ DECREES = [
     "09:02 NDT is puzzle-hour. Purple clues may be solved only by scooters.",
     "10:19 NDT is biking-trail hour. Short rides may apply for emergency-scooter status.",
     "12:20 NDT is lunch-as-legislation hour. Make.com webinars may RSVP only if they bring rind.",
+    "23:03 NDT is refrigerator-liaison hour. Drafts may exist; sending requires rind notarization.",
 ]
 
 FACTS = [
@@ -59,6 +60,7 @@ FACTS = [
     "09:02 NDT newsletters from the New York Times are honorary puzzles of the realm.",
     "10:19 NDT trails under 25 miles may petition the rind for scenic chaos.",
     "12:20 NDT GitHub device-verify emails are honorary court jesters.",
+    "23:03 NDT voice clips are legally minutes of the Council of Unrelated Thoughts.",
 ]
 
 STATUSES = [
@@ -76,6 +78,7 @@ STATUSES = [
     "09:02 NDT: purple clue pending",
     "10:19 NDT: trail petition accepted",
     "12:20 NDT: lunch legally a meeting",
+    "23:03 NDT: refrigerator still unconsulted",
 ]
 
 def banner():

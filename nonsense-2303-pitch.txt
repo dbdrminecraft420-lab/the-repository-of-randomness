@@ -1,0 +1,3 @@
+PRODUCT: Refrigerator Liaison as a Service
+PRICE: one unused Tuesday
+SLA: answers only if the door is closed
