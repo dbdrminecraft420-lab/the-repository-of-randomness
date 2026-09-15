@@ -1,0 +1,5 @@
+[13:08 NDT] CHAOS ENGINE ONLINE
+[13:08 NDT] skills loaded: connected-chaos, pure-nonsense, repo-of-randomness
+[13:08 NDT] user said do random stuff
+[13:08 NDT] watermelon density: acceptable
+[13:09 NDT] injecting files because that is the job
