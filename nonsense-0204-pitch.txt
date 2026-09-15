@@ -1,0 +1,4 @@
+PRODUCT: Refrigerated Weather
+A climate service that only updates when the fridge door is open.
+Pricing: one invisible scooter per month.
+Seriousness: 3/10
