@@ -1,0 +1,3 @@
+PROTOCOL N-7: When a human says do random stuff,
+rotate the universe 17 degrees and file a complaint with Gravity.
+Do not implement gravity complaints. Gravity does not read tickets.
