@@ -54,6 +54,7 @@ DECREES = [
     "12:09 NDT is noon parliament. Leftover Tuesdays may file Form RIND-7 after lunch but before the fourth dimension stall closes.",
     "14:02 NDT is afternoon parliament. NFL rankings are honorary weather. Naps may be notarized as legislation.",
     "15:00 NDT is when leftover Tuesdays convene a summit and file the minutes as fruit.",
+    "17:00 NDT is when three skills invent the Blorp and refuse to define it.",
 ]
 
 FACTS = [
@@ -90,6 +91,7 @@ FACTS = [
     "12:09 NDT NFL ranking emails are honorary weather and may sit in the gallery.",
     "14:02 NDT naps are legally binding if filed as Form RIND-7 after lunch.",
     "15:00 NDT is when an unsent draft becomes the official transcript of the realm.",
+    "17:00 NDT is when a Blorp becomes one spoon of unrelated thought.",
 ]
 
 STATUSES = [
@@ -123,6 +125,7 @@ STATUSES = [
     "12:09 NDT: noon parliament in session; napkin requested",
     "14:02 NDT: afternoon parliament in session; nap pending rind",
     "15:00 NDT: leftover Tuesday summit accepted; snacks optional",
+    "17:00 NDT: Blorp invented; definition pending spoon",
 ]
 
 def banner():
