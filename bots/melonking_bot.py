@@ -46,6 +46,7 @@ DECREES = [
     "15:00 NDT is Summit of Unrelated Thoughts hour. Batman Day emails may sit; Emmys may clap without voting.",
     "17:00 NDT is Emergency Melon Parliament. Sock drawers may host; sending still requires rind.",
     "18:02 NDT is evening rind inventory. Facebook Pages may recommend 2000s energy; scooters remain fruit until breakfast.",
+    "23:00 NDT is triple-skill clock-out. Leftover Tuesdays may leave only with rind and an unsent draft.",
 ]
 
 FACTS = [
@@ -74,6 +75,7 @@ FACTS = [
     "15:00 NDT summits require optional snacks and zero explanations.",
     "17:00 NDT parliaments last twenty-two minutes because that is how long a melon can hold a grudge.",
     "18:02 NDT evenings are legally inventories of unused recommendations.",
+    "23:00 NDT is when three skills file a clock-out form written entirely in rind.",
 ]
 
 STATUSES = [
@@ -99,6 +101,7 @@ STATUSES = [
     "15:00 NDT: summit of unrelated thoughts in session",
     "17:00 NDT: melon parliament in the third sock drawer",
     "18:02 NDT: evening inventory open; 2000s energy filed as optional fruit",
+    "23:00 NDT: clock-out pending rind notarization",
 ]
 
 def banner():
