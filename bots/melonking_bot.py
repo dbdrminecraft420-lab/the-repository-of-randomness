@@ -50,6 +50,7 @@ DECREES = [
     "23:00 NDT is triple-skill clock-out. Leftover Tuesdays may leave only with rind and an unsent draft.",
     "04:06 NDT is pre-breakfast rind notarization. GDevelop may teach games; leftover Tuesdays may sit but not vote.",
     "05:03 NDT is dawn parliament. GDevelop homework may sit. NYT skeptics are weather. Scooters stay fruit until breakfast.",
+    "08:01 NDT is when three skills file breakfast as legislation and call it a civic park.",
 ]
 
 FACTS = [
@@ -69,7 +70,7 @@ FACTS = [
     "07:00 NDT drafts outnumber sent emails by a factor of melon.",
     "07:00 NDT Form RIND-7 is breakfast wearing a suit.",
     "08:00 NDT Drive folders are civic parks for unused Tuesdays.",
-    "08:03 NDT folders in Drive are civic parks for unused Tuesdays.",
+    "08:03 NDT folders in Drive are civic parks for unused Mondays.",
     "09:02 NDT newsletters from the New York Times are honorary puzzles of the realm.",
     "10:11 NDT is when three skills file a mid-morning weather report and call it legislation.",
     "10:19 NDT trails under 25 miles may petition the rind for scenic chaos.",
@@ -82,6 +83,7 @@ FACTS = [
     "23:00 NDT is when three skills file a clock-out form written entirely in rind.",
     "04:06 NDT is when GDevelop homework becomes optional civic fruit.",
     "05:03 NDT is when a sock drawer becomes a legislature and GDevelop sits quietly in the gallery.",
+    "08:01 NDT Gmail labels named CHAOS-melon-committee are legally picnic tables.",
 ]
 
 STATUSES = [
@@ -111,6 +113,7 @@ STATUSES = [
     "23:00 NDT: clock-out pending rind notarization",
     "04:06 NDT: pre-breakfast packet accepted; refrigerator still unconsulted",
     "05:03 NDT: dawn parliament in session; homework seated, not voting",
+    "08:01 NDT: three skills breakfasting in a Drive folder",
 ]
 
 def banner():
