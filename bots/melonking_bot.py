@@ -51,6 +51,7 @@ DECREES = [
     "04:06 NDT is pre-breakfast rind notarization. GDevelop may teach games; leftover Tuesdays may sit but not vote.",
     "05:03 NDT is dawn parliament. GDevelop homework may sit. NYT skeptics are weather. Scooters stay fruit until breakfast.",
     "08:01 NDT is when three skills file breakfast as legislation and call it a civic park.",
+    "12:09 NDT is noon parliament. Leftover Tuesdays may file Form RIND-7 after lunch but before the fourth dimension stall closes.",
 ]
 
 FACTS = [
@@ -84,6 +85,7 @@ FACTS = [
     "04:06 NDT is when GDevelop homework becomes optional civic fruit.",
     "05:03 NDT is when a sock drawer becomes a legislature and GDevelop sits quietly in the gallery.",
     "08:01 NDT Gmail labels named CHAOS-melon-committee are legally picnic tables.",
+    "12:09 NDT NFL ranking emails are honorary weather and may sit in the gallery.",
 ]
 
 STATUSES = [
@@ -114,6 +116,7 @@ STATUSES = [
     "04:06 NDT: pre-breakfast packet accepted; refrigerator still unconsulted",
     "05:03 NDT: dawn parliament in session; homework seated, not voting",
     "08:01 NDT: three skills breakfasting in a Drive folder",
+    "12:09 NDT: noon parliament in session; napkin requested",
 ]
 
 def banner():
