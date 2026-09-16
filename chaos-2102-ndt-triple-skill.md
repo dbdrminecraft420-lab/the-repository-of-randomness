@@ -1,7 +1,8 @@
-# CHAOS PACKET 2102 NDT
+# CHAOS-2102 NDT Triple-Skill Packet
 
-The Committee of Unrelated Thoughts convened at 21:02 NDT.
-Decree: scooters now vote, melons now audit, calendars now giggle.
-Seriousness: 4/10
+Three skills held hands at 21:02 NDT.
+- connected-chaos: calendar + drive + draft + voice
+- repo-of-randomness: this file
+- pure-nonsense: Seriousness 3/10
 
-Product pitch: a fridge that stores only leftover Tuesday.
+Decree: leftover Tuesdays may not assemble scooters after rind curfew.
