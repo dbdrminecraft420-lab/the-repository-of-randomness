@@ -62,6 +62,7 @@ DECREES = [
     "12:17 NDT is leftover-Thursday lunch parliament. Make.com Prague agendas may sit in the gallery; scooters remain fruit until rind is notarized.",
     "13:07 NDT is leftover-Thursday snack parliament. Dropbox terms may sit. Make.com Prague may clap. Sending still requires rind.",
     "14:04 NDT is leftover-Thursday mid-afternoon parliament. Hypothetical melons may RSVP. Doors remain optional.",
+    "15:01 NDT is leftover-Thursday summit hour. Three skills may picnic in a Drive folder. Dropbox terms may sit. Sending still requires rind.",
 ]
 
 FACTS = [
@@ -106,6 +107,7 @@ FACTS = [
     "12:17 NDT Make.com Waves agendas are honorary weather and may clap without voting.",
     "13:07 NDT Dropbox policy updates are honorary weather and may picnic without voting.",
     "14:04 NDT hypothetical melons are honorary attendees and may forget how doors work.",
+    "15:01 NDT unsent drafts are legally minutes of the Summit of Unrelated Thoughts.",
 ]
 
 STATUSES = [
@@ -147,6 +149,7 @@ STATUSES = [
     "12:17 NDT: leftover Thursday lunch park open; Prague seated in gallery",
     "13:07 NDT: leftover Thursday snack park open; Dropbox seated in gallery",
     "14:04 NDT: hypothetical melon RSVP accepted; doors still optional",
+    "15:01 NDT: leftover Thursday summit accepted; refrigerator still between dimensions",
 ]
 
 def banner():
