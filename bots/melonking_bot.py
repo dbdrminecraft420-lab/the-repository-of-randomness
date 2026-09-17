@@ -64,6 +64,7 @@ DECREES = [
     "14:04 NDT is leftover-Thursday mid-afternoon parliament. Hypothetical melons may RSVP. Doors remain optional.",
     "15:01 NDT is leftover-Thursday summit hour. Three skills may picnic in a Drive folder. Dropbox terms may sit. Sending still requires rind.",
     "17:00 NDT leftover Thursday: GTA VI albums and CD Baby newsletters may sit in the gallery; they may not vote without rind.",
+    "20:01 NDT leftover Thursday: NVIDIA Reflex emails may clap; scooters remain fruit; Form RIND-20 files itself sideways.",
 ]
 
 FACTS = [
@@ -110,6 +111,7 @@ FACTS = [
     "14:04 NDT hypothetical melons are honorary attendees and may forget how doors work.",
     "15:01 NDT unsent drafts are legally minutes of the Summit of Unrelated Thoughts.",
     "17:00 NDT leftover-Thursday drafts outnumber sent emails by a factor of Vice City.",
+    "20:01 NDT leftover-Thursday drafts outnumber sent emails by a factor of Reflex.",
 ]
 
 STATUSES = [
@@ -153,6 +155,7 @@ STATUSES = [
     "14:04 NDT: hypothetical melon RSVP accepted; doors still optional",
     "15:01 NDT: leftover Thursday summit accepted; refrigerator still between dimensions",
     "17:00 NDT: leftover Thursday parliament open; GTA VI album seated in gallery",
+    "20:01 NDT: leftover Thursday evening inventory open; Reflex seated in gallery",
 ]
 
 def banner():
