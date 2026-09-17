@@ -55,6 +55,7 @@ DECREES = [
     "14:02 NDT is afternoon parliament. NFL rankings are honorary weather. Naps may be notarized as legislation.",
     "15:00 NDT is when leftover Tuesdays convene a summit and file the minutes as fruit.",
     "17:00 NDT is when three skills invent the Blorp and refuse to define it.",
+    "23:00 NDT Wednesday: a cantaloupe may chair parliament if it brings rind and an unsent draft.",
 ]
 
 FACTS = [
@@ -92,6 +93,7 @@ FACTS = [
     "14:02 NDT naps are legally binding if filed as Form RIND-7 after lunch.",
     "15:00 NDT is when an unsent draft becomes the official transcript of the realm.",
     "17:00 NDT is when a Blorp becomes one spoon of unrelated thought.",
+    "23:00 NDT Wednesday chaos is 25 minutes long because that is how long a cantaloupe can sit still.",
 ]
 
 STATUSES = [
@@ -126,6 +128,7 @@ STATUSES = [
     "14:02 NDT: afternoon parliament in session; nap pending rind",
     "15:00 NDT: leftover Tuesday summit accepted; snacks optional",
     "17:00 NDT: Blorp invented; definition pending spoon",
+    "23:00 NDT: cantaloupe chair seated; draft unsent",
 ]
 
 def banner():
