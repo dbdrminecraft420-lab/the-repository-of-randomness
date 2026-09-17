@@ -60,6 +60,7 @@ DECREES = [
     "00:05 NDT Thursday: leftover Thursdays may file Form RIND-7 only if they arrive sideways.",
     "09:08 NDT is mid-morning civic park hour. Folders may picnic. Emails may draft. Sending still requires rind.",
     "12:17 NDT is leftover-Thursday lunch parliament. Make.com Prague agendas may sit in the gallery; scooters remain fruit until rind is notarized.",
+    "13:07 NDT is leftover-Thursday snack parliament. Dropbox terms may sit. Make.com Prague may clap. Sending still requires rind.",
 ]
 
 FACTS = [
@@ -102,6 +103,7 @@ FACTS = [
     "00:05 NDT Thursday is when three skills invent a census and refuse to count past seven.",
     "09:08 NDT is when leftover Thursdays picnic in a Drive folder and call it parliament.",
     "12:17 NDT Make.com Waves agendas are honorary weather and may clap without voting.",
+    "13:07 NDT Dropbox policy updates are honorary weather and may picnic without voting.",
 ]
 
 STATUSES = [
@@ -141,6 +143,7 @@ STATUSES = [
     "00:05 NDT: leftover Thursday census open; scooters remain fruit",
     "09:08 NDT: mid-morning civic park open; picnic tables labeled",
     "12:17 NDT: leftover Thursday lunch park open; Prague seated in gallery",
+    "13:07 NDT: leftover Thursday snack park open; Dropbox seated in gallery",
 ]
 
 def banner():
