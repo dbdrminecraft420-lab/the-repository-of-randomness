@@ -56,6 +56,7 @@ DECREES = [
     "15:00 NDT is when leftover Tuesdays convene a summit and file the minutes as fruit.",
     "17:00 NDT is when three skills invent the Blorp and refuse to define it.",
     "23:00 NDT Wednesday: a cantaloupe may chair parliament if it brings rind and an unsent draft.",
+    "00:05 NDT Thursday: leftover Thursdays may file Form RIND-7 only if they arrive sideways.",
 ]
 
 FACTS = [
@@ -94,6 +95,7 @@ FACTS = [
     "15:00 NDT is when an unsent draft becomes the official transcript of the realm.",
     "17:00 NDT is when a Blorp becomes one spoon of unrelated thought.",
     "23:00 NDT Wednesday chaos is 25 minutes long because that is how long a cantaloupe can sit still.",
+    "00:05 NDT Thursday is when three skills invent a census and refuse to count past seven.",
 ]
 
 STATUSES = [
@@ -129,6 +131,7 @@ STATUSES = [
     "15:00 NDT: leftover Tuesday summit accepted; snacks optional",
     "17:00 NDT: Blorp invented; definition pending spoon",
     "23:00 NDT: cantaloupe chair seated; draft unsent",
+    "00:05 NDT: leftover Thursday census open; scooters remain fruit",
 ]
 
 def banner():
