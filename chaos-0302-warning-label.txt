@@ -1,0 +1,3 @@
+WARNING: This packet contains unused Thursday minutes.
+Do not send the accompanying Gmail draft.
+RIND-7 not required at 03:02 because the toaster is asleep.
