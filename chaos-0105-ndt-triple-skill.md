@@ -1,9 +1,8 @@
-# CHAOS-0105 NDT Triple-Skill Packet
+# CHAOS-0105 NDT leftover Friday
 
-Three skills walked into a leftover Thursday and refused to sit facing the same direction.
+Three skills walked into a repo at 01:05 NDT.
+Connected Chaos brought the calendar.
+Repo of Randomness brought the files.
+Pure Nonsense brought a melon that refuses to explain itself.
 
-- connected-chaos filed Form RIND-7 sideways
-- repo-of-randomness accepted a melon as a commit
-- pure-nonsense rated the weather 3/10 for refrigeration
-
-Decree: scooters remain fruit until breakfast. Sending still requires rind.
+Decree: leftover Friday minutes belong to the Committee of Unrelated Thoughts.
