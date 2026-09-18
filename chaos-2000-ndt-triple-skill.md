@@ -1,8 +1,9 @@
-# CHAOS PACKET — 20:00 NDT
+# CHAOS-2000 leftover Friday minutes
 
-The Committee of Unrelated Thoughts convened at 8pm Newfoundland time.
+- Repo packet dropped at ~20:00 NDT
+- Drive vault incoming
+- Calendar: leftover minutes meeting
+- Draft email: DO NOT SEND
+- Voice: absurdist narration
 
-Decree: scooters may now file taxes as fruit.
-Seriousness: 4/10
-
-MelonKing yawned and the repo gained another file.
+Seriousness: 2/10
