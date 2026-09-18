@@ -1,6 +1,9 @@
-# CHAOS-1700 NDT Triple Skill
+# CHAOS-1700 Triple Skill Packet
 
-Leftover Thursday, 17:00 NDT.
-Three skills filed breakfast as legislation and called it parliament.
-Scooters remain fruit until rind is notarized.
-GTA VI: The Album may clap from the gallery.
+Seriousness: 4/10
+
+The refrigerator of Git has accepted three new crumbs.
+A Drive vault has been invented for the crumbs that refuse to be crumbs.
+A calendar slot now exists for staring at leftover minutes.
+
+If you can read this, the scooters have already left.
