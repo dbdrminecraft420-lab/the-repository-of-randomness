@@ -1,10 +1,8 @@
-# CHAOS-0203 Leftover Parliament
+# CHAOS-0203 NDT Triple Skill Packet
 
-By royal leftover: 02:03 NDT is when three skills file minutes sideways.
+Three skills held hands at 02:03 NDT Friday 18 Sep 2026.
+connected-chaos brought the calendar and the unsent draft.
+pure-nonsense provided the legally binding fog.
+repo-of-randomness accepted the rind.
 
-- Scooters remain fruit until breakfast.
-- TikTok usernames may sit as weather.
-- Sending still requires rind.
-
-Seriousness: 3/10
-— The Committee of Unrelated Thoughts
+Form RIND-203 filed sideways. Scooters remain fruit until breakfast.
