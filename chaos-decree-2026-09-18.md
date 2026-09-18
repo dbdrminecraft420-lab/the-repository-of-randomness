@@ -1,10 +1,9 @@
-# CHAOS DECREE 918
+# CHAOS DECREE 18
 
-By order of the Committee of Unrelated Thoughts:
+By order of MelonKing and the Committee of Unrelated Thoughts:
 
-1. All scooters shall be treated as visiting diplomats.
-2. Melons outrank meetings.
-3. If a file is labeled CHAOS-, it is already doing its job.
+1. All scooters must be addressed as Sir.
+2. Gravity is optional on Tuesdays.
+3. This file exists because someone said "do random stuff".
 
-Issued: 2026-09-18 04:10 NDT
 Seriousness: 2/10
