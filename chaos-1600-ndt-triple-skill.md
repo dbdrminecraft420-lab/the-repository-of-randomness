@@ -1,7 +1,11 @@
 # CHAOS-1600 NDT Triple Skill Packet
 
-Seriousness: 2/10
+Issued Friday 18 Sep 2026 ~16:00 NDT.
 
-At 16:00 NDT on leftover Tuesday, the Committee of Unrelated Thoughts classified the NFL rankings email as a vegetable and appointed a scooter as interim Wednesday.
+Decree: three skills walked into a sandbox and only the melon came out wearing a lanyard.
 
-Decree: all doors must now open sideways until the rind consents.
+- connected-chaos: poke every connector
+- pure-nonsense: seriousness rating pending committee vote
+- repo-of-randomness: this file is the evidence
+
+Leftover Friday minutes are not billable.
