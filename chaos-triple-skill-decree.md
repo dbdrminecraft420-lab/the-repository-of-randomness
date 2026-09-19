@@ -1,10 +1,9 @@
-# Decree of the Triple Skill Blender
+# CHAOS DECREE 18-SEP-2026-2305-NDT
 
-On this day of September 15, 2026, the Committee of Unrelated Thoughts hereby decrees:
+The Committee of Unrelated Thoughts hereby declares:
 
-1. All scooters shall be legally classified as honorary watermelons.
-2. Commits made at 1:08 PM NDT are 12% more valid than other commits.
-3. If you can read this, you have already agreed to the Melon Accords.
+1. All scooters must be licensed as fruit.
+2. MelonKing's shadow is legally a co-author of this repository.
+3. Seriousness rating of this file: 2/10.
 
-Signed in juice,
-MelonKing (acting)
+Issued under connected-chaos + pure-nonsense + repo-of-randomness.
