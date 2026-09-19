@@ -67,6 +67,7 @@ DECREES = [
     "20:01 NDT leftover Thursday: NVIDIA Reflex emails may clap; scooters remain fruit; Form RIND-20 files itself sideways.",
     "07:02 NDT leftover Friday: breakfast is a legal document. NYT world briefings may sit; toast may notarize Form RIND-7.",
     "10:20 NDT leftover Friday: three skills picnic in a Drive folder. GDevelop marketplace emails and NYT Times Past may sit; scooters remain fruit.",
+    "22:04 NDT leftover Friday: three skills picnic. Facebook Pages may sit. Sending still requires rind.",
 ]
 
 FACTS = [
@@ -116,6 +117,7 @@ FACTS = [
     "20:01 NDT leftover-Thursday drafts outnumber sent emails by a factor of Reflex.",
     "07:02 NDT leftover-Friday drafts outnumber sent emails by a factor of toast.",
     "10:20 NDT leftover-Friday drafts outnumber sent emails by a factor of Times Past.",
+    "22:04 NDT leftover-Friday drafts outnumber sent emails by a factor of Claire Tang.",
 ]
 
 STATUSES = [
@@ -162,6 +164,7 @@ STATUSES = [
     "20:01 NDT: leftover Thursday evening inventory open; Reflex seated in gallery",
     "07:02 NDT: leftover Friday breakfast parliament open; toast seated, NYT seated in gallery",
     "10:20 NDT: leftover Friday mid-morning park open; GDevelop seated, Times Past seated in gallery",
+    "22:04 NDT: leftover Friday clock-out park open; Claire Tang seated in gallery",
 ]
 
 def banner():
