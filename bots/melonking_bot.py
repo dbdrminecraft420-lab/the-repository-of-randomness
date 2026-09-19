@@ -4,12 +4,6 @@ MelonKing Chaos Bot
 ===================
 A small bot for the Repository of Randomness.
 Spews MelonKing decrees, chaos facts, and random infection status.
-
-Usage:
-  python bots/melonking_bot.py
-  python bots/melonking_bot.py --decree
-  python bots/melonking_bot.py --status
-  python bots/melonking_bot.py --plague
 """
 
 import argparse
@@ -69,6 +63,7 @@ DECREES = [
     "10:20 NDT leftover Friday: three skills picnic in a Drive folder. GDevelop marketplace emails and NYT Times Past may sit; scooters remain fruit.",
     "22:04 NDT leftover Friday: three skills picnic. Facebook Pages may sit. Sending still requires rind.",
     "06:03 NDT leftover Saturday: three skills picnic. Toasters notarize Form RIND-7. Scooters remain fruit until breakfast.",
+    "09:06 NDT leftover Saturday: three skills file a mid-morning packet and call it a picnic. Refrigerators may sit but not vote.",
 ]
 
 FACTS = [
@@ -120,6 +115,7 @@ FACTS = [
     "10:20 NDT leftover-Friday drafts outnumber sent emails by a factor of Times Past.",
     "22:04 NDT leftover-Friday drafts outnumber sent emails by a factor of Claire Tang.",
     "06:03 NDT leftover-Saturday drafts outnumber sent emails by a factor of weekend rind.",
+    "09:06 NDT leftover-Saturday drafts outnumber sent emails by a factor of mid-morning picnic.",
 ]
 
 STATUSES = [
@@ -168,6 +164,7 @@ STATUSES = [
     "10:20 NDT: leftover Friday mid-morning park open; GDevelop seated, Times Past seated in gallery",
     "22:04 NDT: leftover Friday clock-out park open; Claire Tang seated in gallery",
     "06:03 NDT: leftover Saturday parliament open; three skills seated; toaster voting",
+    "09:06 NDT: leftover Saturday mid-morning picnic open; refrigerators seated in gallery",
 ]
 
 def banner():
