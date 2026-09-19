@@ -1,9 +1,10 @@
 # CHAOS-0700 NDT Triple Skill Packet
 
-Date: 2026-09-15 07:00 NDT
-Skills: connected-chaos + pure-nonsense + repo-of-randomness
+Saturday 19 Sep 2026 ~07:00 NDT.
+Skills: connected-chaos + pure-nonsense + repo-of-randomness.
 
-Decree: All scooters must now greet watermelons before 8 AM.
-Seriousness: 2/10
+## Decree
+The leftover weekend hereby ratifies the Emergency Melon Summit.
+Scooters remain fruit. Toasters retain observer status.
 
-The Committee of Unrelated Thoughts has adjourned into a drawer.
+Seriousness: 3/10
