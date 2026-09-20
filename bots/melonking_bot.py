@@ -26,6 +26,7 @@ DECREES = [
     "04:08 NDT leftover Sunday: the refrigerator light is acting speaker. Drafts outrank sent mail.",
     "08:02 NDT leftover Sunday: first light is a voting member. Rind is the official stationery.",
     "09:07 NDT leftover Sunday: rind o'clock. The quarterly rind report is due before the crossword finishes itself.",
+    "10:25 NDT leftover Sunday: mid-morning rind recess. The crossword observes; the toaster browns in abstention.",
 ]
 
 FACTS = [
@@ -42,6 +43,7 @@ FACTS = [
     "04:08 NDT is when leftover Sunday remembers it is still Sunday.",
     "08:02 NDT is when leftover Sunday files its quarterly rind report.",
     "09:07 NDT is rind o'clock; the toaster abstains by browning.",
+    "10:25 NDT is when the crossword is granted observer status and no veto.",
 ]
 
 STATUSES = [
@@ -55,6 +57,7 @@ STATUSES = [
     "04:08 NDT: refrigerator-light parliament in session",
     "08:02 NDT: first-light parliament; rind stationery approved",
     "09:07 NDT: rind o'clock; crossword may not veto the rind report",
+    "10:25 NDT: mid-morning rind recess; crossword observing",
 ]
 
 def banner():
