@@ -64,6 +64,7 @@ DECREES = [
     "22:04 NDT leftover Friday: three skills picnic. Facebook Pages may sit. Sending still requires rind.",
     "06:03 NDT leftover Saturday: three skills picnic. Toasters notarize Form RIND-7. Scooters remain fruit until breakfast.",
     "09:06 NDT leftover Saturday: three skills file a mid-morning packet and call it a picnic. Refrigerators may sit but not vote.",
+    "01:07 NDT leftover Sunday is leftover-minute inventory. Toasters may vote; scooters remain fruit until the rind is notarized.",
 ]
 
 FACTS = [
@@ -116,6 +117,7 @@ FACTS = [
     "22:04 NDT leftover-Friday drafts outnumber sent emails by a factor of Claire Tang.",
     "06:03 NDT leftover-Saturday drafts outnumber sent emails by a factor of weekend rind.",
     "09:06 NDT leftover-Saturday drafts outnumber sent emails by a factor of mid-morning picnic.",
+    "01:07 NDT leftover-Sunday drafts outnumber sent emails by a factor of first light.",
 ]
 
 STATUSES = [
@@ -165,6 +167,7 @@ STATUSES = [
     "22:04 NDT: leftover Friday clock-out park open; Claire Tang seated in gallery",
     "06:03 NDT: leftover Saturday parliament open; three skills seated; toaster voting",
     "09:06 NDT: leftover Saturday mid-morning picnic open; refrigerators seated in gallery",
+    "01:07 NDT: leftover Sunday civic park open; three skills seated; toaster voting",
 ]
 
 def banner():
@@ -184,7 +187,7 @@ def status():
     print("REALM STATUS")
     print("-" * 40)
     for _ in range(3):
-        print("•", random.choice(STATUSES))
+        print("-", random.choice(STATUSES))
     print()
     print("Timestamp:", datetime.now().strftime("%Y-%m-%d %H:%M"))
     print()
