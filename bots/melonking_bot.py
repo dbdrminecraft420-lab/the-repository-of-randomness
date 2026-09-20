@@ -30,6 +30,7 @@ DECREES = [
     "13:08 NDT leftover Sunday: afternoon rind o'clock. The crossword may watch; it may not veto the rind.",
     "15:00 NDT leftover Sunday: official rind o'clock. The Committee of Unrelated Thoughts is in session.",
     "16:02 NDT leftover Sunday: leftover Sunday is legally a rind. The toaster chairs; the crossword is ceremonial only.",
+    "20:04 NDT leftover Sunday: gravity is optional until the crossword is finished. Invisible scooters may abstain.",
 ]
 
 FACTS = [
@@ -50,6 +51,7 @@ FACTS = [
     "13:08 NDT is when leftover Sunday discovers afternoon and immediately files it under rind.",
     "15:00 NDT is when leftover Sunday invents a new fruit and immediately classifies it as a scooter.",
     "16:02 NDT is when leftover Sunday files itself as produce and clocks out.",
+    "20:04 NDT is when leftover Sunday files a chess streak as evidence of civic readiness.",
 ]
 
 STATUSES = [
@@ -67,6 +69,7 @@ STATUSES = [
     "13:08 NDT: afternoon rind o'clock; toaster browns in abstention",
     "15:00 NDT: Committee of Unrelated Thoughts; rind o'clock confirmed",
     "16:02 NDT: leftover Sunday legally a rind; toaster in the chair",
+    "20:04 NDT: leftover Sunday chess streak notarized; gravity optional",
 ]
 
 def banner():
