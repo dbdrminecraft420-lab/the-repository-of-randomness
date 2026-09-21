@@ -1,9 +1,11 @@
-# CHAOS DECREE 18-SEP-2026-2305-NDT
+# CHAOS DECREE 21-SEP-2026
 
 The Committee of Unrelated Thoughts hereby declares:
 
-1. All scooters must be licensed as fruit.
-2. MelonKing's shadow is legally a co-author of this repository.
-3. Seriousness rating of this file: 2/10.
+1. All scooters must be addressed as Sir Melon until further notice.
+2. Leftover Monday is now a recognized timezone.
+3. Gravity is optional on Tuesdays if you file Form 9-B internally.
 
-Issued under connected-chaos + pure-nonsense + repo-of-randomness.
+Seriousness: 4/10
+
+— Dept. of Productive Confusion
