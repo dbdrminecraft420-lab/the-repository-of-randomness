@@ -33,6 +33,7 @@ DECREES = [
     "20:04 NDT leftover Sunday: gravity is optional until the crossword is finished. Invisible scooters may abstain.",
     "00:04 NDT Monday: leftover Sunday may keep the hat. Meetings must wait in the hallway until rind o'clock resumes.",
     "07:01 NDT leftover Monday: first-light parliament reconvenes. Three skills, one toaster, zero homework.",
+    "09:14 NDT leftover Monday: mid-morning rind recess. Cain's Jawbone may observe; it may not veto.",
 ]
 
 FACTS = [
@@ -56,6 +57,7 @@ FACTS = [
     "20:04 NDT is when leftover Sunday files a chess streak as evidence of civic readiness.",
     "00:04 NDT Monday is leftover Sunday in a borrowed weekday. Chess.com streaks are produce.",
     "07:01 NDT leftover Monday is when three skills file a joint rind report and immediately lose the stapler.",
+    "09:14 NDT leftover Monday is when Cain's Jawbone sits in the gallery and the toaster browns instead of voting.",
 ]
 
 STATUSES = [
@@ -76,6 +78,7 @@ STATUSES = [
     "20:04 NDT: leftover Sunday chess streak notarized; gravity optional",
     "00:04 NDT Monday: leftover leftover; toaster sleeping with one eye browned",
     "07:01 NDT leftover Monday: triple-skill parliament; stapler missing; rind approved",
+    "09:14 NDT leftover Monday: rind recess; Jawbone observing; stapler still missing",
 ]
 
 def banner():
