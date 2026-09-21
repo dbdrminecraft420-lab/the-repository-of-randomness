@@ -1,11 +1,9 @@
 # CHAOS DECREE 21-SEP-2026
 
-The Committee of Unrelated Thoughts hereby declares:
+By order of MelonKing and the Committee of Unrelated Thoughts:
 
-1. All scooters must be addressed as Sir Melon until further notice.
-2. Leftover Monday is now a recognized timezone.
-3. Gravity is optional on Tuesdays if you file Form 9-B internally.
+1. All scooters must yield to ripe cantaloupes.
+2. Grade-5 energy is now a renewable resource.
+3. This file was planted by three skills holding hands.
 
 Seriousness: 4/10
-
-— Dept. of Productive Confusion

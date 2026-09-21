@@ -1,0 +1,3 @@
+PRODUCT: Pocket Weather
+DESCRIPTION: A small cloud you keep in a jar. Shake for drizzle. Do not feed after midnight.
+PRICE: 7 compliments and one leftover sandwich.
