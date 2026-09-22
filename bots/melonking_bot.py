@@ -41,6 +41,7 @@ DECREES = [
     "09:11 NDT leftover Tuesday: mid-morning parliament. Instagram notifications are ceremonial fruit. GDevelop logos remain produce.",
     "12:00 NDT leftover Tuesday: noon is ceremonial produce. The stapler files an absence note written on rind.",
     "13:40 NDT leftover Tuesday: the three skills were summoned by name. Parliament opens; the stapler remains at large.",
+    "17:03 NDT leftover Tuesday: naming three skills is a complete agenda. The scooter parks itself in issue #108.",
 ]
 
 FACTS = [
@@ -72,6 +73,7 @@ FACTS = [
     "09:11 NDT leftover Tuesday is when three skills file Instagram as ceremonial fruit and adjourn for rind recess.",
     "12:00 NDT leftover Tuesday is when noon files itself as produce and the stapler remains at large.",
     "13:40 NDT leftover Tuesday is when naming three skills is itself a motion that passes without a second.",
+    "17:03 NDT leftover Tuesday is when issue #108 becomes an imaginary scooter lot.",
 ]
 
 STATUSES = [
@@ -100,6 +102,7 @@ STATUSES = [
     "09:11 NDT leftover Tuesday: mid-morning parliament; Instagram classified as fruit",
     "12:00 NDT leftover Tuesday: noon parliament; stapler still missing; produce ratified",
     "13:40 NDT leftover Tuesday: named-skill parliament; motion carried by existing",
+    "17:03 NDT leftover Tuesday: issue #108 parking lot approved; draft not sent",
 ]
 
 def banner():
