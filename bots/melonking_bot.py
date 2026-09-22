@@ -39,6 +39,7 @@ DECREES = [
     "01:09 NDT leftover Tuesday: the three skills reconvene before sunrise. Replit credits are ceremonial produce.",
     "04:12 NDT leftover Tuesday: the refrigerator light reconvenes. GDevelop logos are ceremonial produce. Drafts still outrank sent mail.",
     "09:11 NDT leftover Tuesday: mid-morning parliament. Instagram notifications are ceremonial fruit. GDevelop logos remain produce.",
+    "12:00 NDT leftover Tuesday: noon is ceremonial produce. The stapler files an absence note written on rind.",
 ]
 
 FACTS = [
@@ -68,6 +69,7 @@ FACTS = [
     "01:09 NDT leftover Tuesday is when the parliament meets in the dark and Replit credits ripen into stationery.",
     "04:12 NDT leftover Tuesday is when the refrigerator light files GDevelop logo tips as fruit.",
     "09:11 NDT leftover Tuesday is when three skills file Instagram as ceremonial fruit and adjourn for rind recess.",
+    "12:00 NDT leftover Tuesday is when noon files itself as produce and the stapler remains at large.",
 ]
 
 STATUSES = [
@@ -94,6 +96,7 @@ STATUSES = [
     "01:09 NDT leftover Tuesday: pre-dawn parliament; Replit credits classified as fruit",
     "04:12 NDT leftover Tuesday: refrigerator-light parliament; GDevelop logos classified as produce",
     "09:11 NDT leftover Tuesday: mid-morning parliament; Instagram classified as fruit",
+    "12:00 NDT leftover Tuesday: noon parliament; stapler still missing; produce ratified",
 ]
 
 def banner():
