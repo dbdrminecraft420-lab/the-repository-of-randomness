@@ -36,6 +36,7 @@ DECREES = [
     "09:14 NDT leftover Monday: mid-morning rind recess. Cain's Jawbone may observe; it may not veto.",
     "17:00 NDT leftover Monday: toast is a sandwich until the scooter vote is counted.",
     "19:04 NDT leftover Monday: evening rind parliament. Drafts are civic monuments. Do not send them.",
+    "01:09 NDT leftover Tuesday: the three skills reconvene before sunrise. Replit credits are ceremonial produce.",
 ]
 
 FACTS = [
@@ -62,6 +63,7 @@ FACTS = [
     "09:14 NDT leftover Monday is when Cain's Jawbone sits in the gallery and the toaster browns instead of voting.",
     "17:00 NDT leftover Monday is when three skills declare toast a sandwich and adjourn.",
     "19:04 NDT leftover Monday is when a draft becomes architecture and the toaster files the minutes in rind.",
+    "01:09 NDT leftover Tuesday is when the parliament meets in the dark and Replit credits ripen into stationery.",
 ]
 
 STATUSES = [
@@ -85,6 +87,7 @@ STATUSES = [
     "09:14 NDT leftover Monday: rind recess; Jawbone observing; stapler still missing",
     "17:00 NDT leftover Monday: toast-as-sandwich doctrine ratified",
     "19:04 NDT leftover Monday: evening parliament; drafts outrank sent mail",
+    "01:09 NDT leftover Tuesday: pre-dawn parliament; Replit credits classified as fruit",
 ]
 
 def banner():
