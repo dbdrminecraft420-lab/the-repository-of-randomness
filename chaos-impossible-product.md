@@ -1,6 +1,8 @@
-# Product Pitch: Cloud-Based Sandwich Gravity
+# Product Pitch: Cloud Toaster That Toasts Feelings
 
-SaaS that leases extra gravity to sandwiches so the filling stays put during meetings.
+Features:
+- WiFi optional, vibes mandatory
+- Output: warm bread OR a pep talk, never both
+- Powered by leftover calendar notifications
 
-Pricing: 7 invisible stamps per loaf.
-SLA: we apologize in iambic pentameter.
+Do not buy. Do not not buy. Exist near it.
