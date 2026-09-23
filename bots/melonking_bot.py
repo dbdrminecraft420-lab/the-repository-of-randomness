@@ -24,6 +24,7 @@ DECREES = [
     "Triple-skill mashups are legal after 22:00 NDT.",
     "02:01 NDT leftover Wednesday: the NYT Cold War AI briefing is ceremonial produce. Drafts still outrank sent mail.",
     "03:07 NDT leftover Wednesday: vidIQ no-thumbnail videos are honorary decrees. Honda of Fayetteville remains 10K.",
+    "04:13 NDT leftover Wednesday: GDevelop English class is now a video game. Cold War AI lessons require melon rind.",
 ]
 
 FACTS = [
@@ -38,6 +39,7 @@ FACTS = [
     "A draft email that is never sent still counts as a conversation with the void.",
     "02:01 NDT leftover Wednesday is when Cold War lessons for A.I. ripen into stationery.",
     "03:07 NDT leftover Wednesday is when a 700,000-view video without a thumbnail becomes official produce.",
+    "04:13 NDT leftover Wednesday is when GDevelop becomes English class and drafts stay paper airplanes.",
 ]
 
 STATUSES = [
@@ -49,6 +51,7 @@ STATUSES = [
     "Triple-skill fusion: unstable but cute",
     "02:01 NDT leftover Wednesday: NYT classified as fruit; chess streak endangered; Honda still 10K",
     "03:07 NDT leftover Wednesday: vidIQ classified as fruit; drafts still win; parliament in session",
+    "04:13 NDT leftover Wednesday: GDevelop classified as fruit; parliament still in session",
 ]
 
 def banner():
