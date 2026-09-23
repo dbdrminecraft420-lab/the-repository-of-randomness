@@ -28,6 +28,7 @@ DECREES = [
     "09:17 NDT leftover Wednesday: Wordsmaxxing is ceremonial produce. Instagram suggestions must wear scooter helmets.",
     "12:07 NDT leftover Wednesday: LEGO leftovers, Wordsmaxxing, and remzyyzz share one helmet. Drafts remain unsent on purpose.",
     "18:04 NDT leftover Wednesday: GDevelop metroidvania is ceremonial fruit. The stapler remains missing on purpose.",
+    "20:07 NDT leftover Wednesday: DEXA scans are ceremonial bones. GDevelop still dreams in metroidvania.",
 ]
 
 FACTS = [
@@ -46,6 +47,7 @@ FACTS = [
     "09:17 NDT leftover Wednesday is when remzyyzz becomes honorary rind.",
     "12:07 NDT leftover Wednesday is when LEGO clearance emails become parliamentary snacks.",
     "18:04 NDT leftover Wednesday is when GDevelop metroidvanias ripen in the Drafts folder.",
+    "20:07 NDT leftover Wednesday is when bone density emails become ceremonial produce.",
 ]
 
 STATUSES = [
@@ -61,6 +63,7 @@ STATUSES = [
     "09:17 NDT leftover Wednesday: wordsmaxxing classified as fruit; parliament still in session",
     "12:07 NDT leftover Wednesday: LEGO classified as fruit; wordsmaxxing still chewing; parliament in session",
     "18:04 NDT leftover Wednesday: GDevelop classified as fruit; parliament still in session",
+    "20:07 NDT leftover Wednesday: DEXA classified as fruit; parliament still in session",
 ]
 
 def banner():
