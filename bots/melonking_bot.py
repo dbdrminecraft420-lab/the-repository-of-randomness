@@ -43,6 +43,7 @@ DECREES = [
     "13:40 NDT leftover Tuesday: the three skills were summoned by name. Parliament opens; the stapler remains at large.",
     "17:03 NDT leftover Tuesday: naming three skills is a complete agenda. The scooter parks itself in issue #108.",
     "19:00 NDT leftover Tuesday: naming three skills again is still a complete agenda. Issue #109 is the new scooter lot.",
+    "23:13 NDT leftover Tuesday: naming three skills at night is still a complete agenda. Issue #110 is the new scooter lot.",
 ]
 
 FACTS = [
@@ -76,6 +77,7 @@ FACTS = [
     "13:40 NDT leftover Tuesday is when naming three skills is itself a motion that passes without a second.",
     "17:03 NDT leftover Tuesday is when issue #108 becomes an imaginary scooter lot.",
     "19:00 NDT leftover Tuesday is when issue #109 becomes the next imaginary scooter lot.",
+    "23:13 NDT leftover Tuesday is when issue #110 becomes the night scooter lot and Honda remains 10K.",
 ]
 
 STATUSES = [
@@ -106,6 +108,7 @@ STATUSES = [
     "13:40 NDT leftover Tuesday: named-skill parliament; motion carried by existing",
     "17:03 NDT leftover Tuesday: issue #108 parking lot approved; draft not sent",
     "19:00 NDT leftover Tuesday: issue #109 parking lot approved; automation quota classified as fruit",
+    "23:13 NDT leftover Tuesday: issue #110 night lot approved; chess streak still endangered",
 ]
 
 def banner():
