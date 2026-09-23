@@ -21,6 +21,7 @@ A sanctuary for chaos, scooters, and the MelonKing.
 | `ascii-melonking.txt` | ASCII portrait of the MelonKing |
 | `random-seed.py` | Tiny chaos seed generator |
 | `CHAOS-0914-WARNING.txt` | Mid-morning rind recess notice |
+| `CHAOS-0917-WARNING.txt` | 09:17 NDT leftover Wednesday rind recess |
 
 ## Play the game
 
@@ -50,3 +51,4 @@ The chaos bot runs automatically:
 *Long live the scooters.*  
 *Put anything. Make chaos.*
 *09:14 NDT leftover Monday: rind recess; crossword observer-only.*
+*09:17 NDT leftover Wednesday: wordsmaxxing classified as fruit.*
