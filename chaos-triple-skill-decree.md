@@ -1,9 +1,9 @@
-# CHAOS DECREE 21-SEP-2026
+# CHAOS TRIPLE SKILL DECREE
 
-By order of MelonKing and the Committee of Unrelated Thoughts:
+Issued by the Committee of Unrelated Thoughts on 2026-09-23.
 
-1. All scooters must yield to ripe cantaloupes.
-2. Grade-5 energy is now a renewable resource.
-3. This file was planted by three skills holding hands.
+1. All scooters shall be granted honorary melon citizenship.
+2. Seriousness is capped at 3/10 until further notice.
+3. If you can read this file, you have already agreed to clap twice before compiling.
 
-Seriousness: 4/10
+— Dept. of Productive Confusion

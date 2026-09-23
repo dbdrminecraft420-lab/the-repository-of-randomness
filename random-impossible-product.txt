@@ -1,3 +1,4 @@
-PRODUCT: Pocket Weather
-DESCRIPTION: A small cloud you keep in a jar. Shake for drizzle. Do not feed after midnight.
-PRICE: 7 compliments and one leftover sandwich.
+PRODUCT PITCH: Cloud-Native Sandwich Router
+Routes mayonnaise packets through a 7-layer burrito OSI model.
+Latency: two Wednesdays.
+Pricing: one compliment per GB.
