@@ -1,6 +1,6 @@
-   .-"""-.
-  /  MELON \
- |   KING   |
-  \ SCOOTER /
-   '-.....-'
- CHAOS MODE ACTIVE
+   __
+  /  \   MELON
+ | () |  SCOOTER
+  \__/   PROTOCOL
+   ||
+  /__\
