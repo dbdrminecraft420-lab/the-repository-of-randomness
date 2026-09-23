@@ -26,6 +26,7 @@ DECREES = [
     "03:07 NDT leftover Wednesday: vidIQ no-thumbnail videos are honorary decrees. Honda of Fayetteville remains 10K.",
     "04:13 NDT leftover Wednesday: GDevelop English class is now a video game. Cold War AI lessons require melon rind.",
     "09:17 NDT leftover Wednesday: Wordsmaxxing is ceremonial produce. Instagram suggestions must wear scooter helmets.",
+    "12:07 NDT leftover Wednesday: LEGO leftovers, Wordsmaxxing, and remzyyzz share one helmet. Drafts remain unsent on purpose.",
 ]
 
 FACTS = [
@@ -42,6 +43,7 @@ FACTS = [
     "03:07 NDT leftover Wednesday is when a 700,000-view video without a thumbnail becomes official produce.",
     "04:13 NDT leftover Wednesday is when GDevelop becomes English class and drafts stay paper airplanes.",
     "09:17 NDT leftover Wednesday is when remzyyzz becomes honorary rind.",
+    "12:07 NDT leftover Wednesday is when LEGO clearance emails become parliamentary snacks.",
 ]
 
 STATUSES = [
@@ -55,6 +57,7 @@ STATUSES = [
     "03:07 NDT leftover Wednesday: vidIQ classified as fruit; drafts still win; parliament in session",
     "04:13 NDT leftover Wednesday: GDevelop classified as fruit; parliament still in session",
     "09:17 NDT leftover Wednesday: wordsmaxxing classified as fruit; parliament still in session",
+    "12:07 NDT leftover Wednesday: LEGO classified as fruit; wordsmaxxing still chewing; parliament in session",
 ]
 
 def banner():
