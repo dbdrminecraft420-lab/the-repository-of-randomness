@@ -34,6 +34,7 @@ DECREES = [
     "03:06 NDT leftover Thursday: Decoding Trump-Xi is ceremonial produce. Applaydu still misses the realm.",
     "04:12 NDT leftover Thursday: The World newsletter is now a scooter briefing. Triple-skill parliament is in session.",
     "05:01 NDT leftover Thursday: Iran's UN speech is ceremonial rind. Triple-skill parliament files leftover minutes again.",
+    "15:00 NDT leftover Thursday: Base44 phone calls are ceremonial scooters. Wordle-in-1 is fruit. Drafts stay drafts.",
 ]
 
 FACTS = [
@@ -58,6 +59,7 @@ FACTS = [
     "03:06 NDT leftover Thursday is when The World newsletter becomes a scooter briefing.",
     "04:12 NDT leftover Thursday is when leftover Thursday files a motion to remain leftover.",
     "05:01 NDT leftover Thursday is when UN speeches ripen into scooter briefings.",
+    "15:00 NDT leftover Thursday is when Base44 phone calls ripen into imaginary scooter dispatch.",
 ]
 
 STATUSES = [
@@ -74,11 +76,12 @@ STATUSES = [
     "12:07 NDT leftover Wednesday: LEGO classified as fruit; wordsmaxxing still chewing; parliament in session",
     "18:04 NDT leftover Wednesday: GDevelop classified as fruit; parliament still in session",
     "20:07 NDT leftover Wednesday: DEXA classified as fruit; parliament still in session",
-    "22:21 NDT leftover Wednesday: Grammarly classified as fruit; bones classified as snacks; parliament in session",
+    "22:21 NDT leftover Wednesday: Grammarly classified as fruit; bones classified as snacks; parliament still in session",
     "02:01 NDT leftover Thursday: Applaydu classified as playground; chefs classified as produce; parliament in session",
     "03:06 NDT leftover Thursday: Trump-Xi classified as fruit; Applaydu still missing you; parliament in session",
     "04:12 NDT leftover Thursday: The World classified as fruit; triple-skill parliament in session",
     "05:01 NDT leftover Thursday: UN speech classified as rind; parliament still leftover",
+    "15:00 NDT leftover Thursday: Base44 classified as scooter dispatcher; Wordle classified as fruit; parliament leftover",
 ]
 
 def banner():
