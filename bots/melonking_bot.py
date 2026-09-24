@@ -32,6 +32,7 @@ DECREES = [
     "22:21 NDT leftover Wednesday: Grammarly 50% off is ceremonial personality. NYT bones are snacks. Drafts stay drafts.",
     "02:01 NDT leftover Thursday: Applaydu is ceremonial playground. Facebook chef pages must wear scooter helmets.",
     "03:06 NDT leftover Thursday: Decoding Trump-Xi is ceremonial produce. Applaydu still misses the realm.",
+    "04:12 NDT leftover Thursday: The World newsletter is now a scooter briefing. Triple-skill parliament is in session.",
 ]
 
 FACTS = [
@@ -54,6 +55,7 @@ FACTS = [
     "22:21 NDT leftover Wednesday is when Grammarly tries to sell you a second personality at half price.",
     "02:01 NDT leftover Thursday is when Applaydu and Facebook chefs ripen into stationery.",
     "03:06 NDT leftover Thursday is when The World newsletter becomes a scooter briefing.",
+    "04:12 NDT leftover Thursday is when leftover Thursday files a motion to remain leftover.",
 ]
 
 STATUSES = [
@@ -73,6 +75,7 @@ STATUSES = [
     "22:21 NDT leftover Wednesday: Grammarly classified as fruit; bones classified as snacks; parliament in session",
     "02:01 NDT leftover Thursday: Applaydu classified as playground; chefs classified as produce; parliament in session",
     "03:06 NDT leftover Thursday: Trump-Xi classified as fruit; Applaydu still missing you; parliament in session",
+    "04:12 NDT leftover Thursday: The World classified as fruit; triple-skill parliament in session",
 ]
 
 def banner():
