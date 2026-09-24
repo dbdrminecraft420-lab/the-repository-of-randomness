@@ -35,6 +35,7 @@ DECREES = [
     "04:12 NDT leftover Thursday: The World newsletter is now a scooter briefing. Triple-skill parliament is in session.",
     "05:01 NDT leftover Thursday: Iran's UN speech is ceremonial rind. Triple-skill parliament files leftover minutes again.",
     "15:00 NDT leftover Thursday: Base44 phone calls are ceremonial scooters. Wordle-in-1 is fruit. Drafts stay drafts.",
+    "17:00 NDT leftover Thursday: CD Baby revenue streams are ceremonial scooters. Vice City boxes ripen in November. Drafts stay drafts.",
 ]
 
 FACTS = [
@@ -60,6 +61,7 @@ FACTS = [
     "04:12 NDT leftover Thursday is when leftover Thursday files a motion to remain leftover.",
     "05:01 NDT leftover Thursday is when UN speeches ripen into scooter briefings.",
     "15:00 NDT leftover Thursday is when Base44 phone calls ripen into imaginary scooter dispatch.",
+    "17:00 NDT leftover Thursday is when CD Baby asks how many scooters you have and Rockstar boxes become fruit.",
 ]
 
 STATUSES = [
@@ -82,6 +84,7 @@ STATUSES = [
     "04:12 NDT leftover Thursday: The World classified as fruit; triple-skill parliament in session",
     "05:01 NDT leftover Thursday: UN speech classified as rind; parliament still leftover",
     "15:00 NDT leftover Thursday: Base44 classified as scooter dispatcher; Wordle classified as fruit; parliament leftover",
+    "17:00 NDT leftover Thursday: CD Baby classified as fruit; Vice City box classified as November rind; parliament leftover",
 ]
 
 def banner():
