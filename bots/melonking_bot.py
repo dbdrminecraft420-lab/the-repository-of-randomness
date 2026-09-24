@@ -29,6 +29,7 @@ DECREES = [
     "12:07 NDT leftover Wednesday: LEGO leftovers, Wordsmaxxing, and remzyyzz share one helmet. Drafts remain unsent on purpose.",
     "18:04 NDT leftover Wednesday: GDevelop metroidvania is ceremonial fruit. The stapler remains missing on purpose.",
     "20:07 NDT leftover Wednesday: DEXA scans are ceremonial bones. GDevelop still dreams in metroidvania.",
+    "22:21 NDT leftover Wednesday: Grammarly 50% off is ceremonial personality. NYT bones are snacks. Drafts stay drafts.",
 ]
 
 FACTS = [
@@ -48,6 +49,7 @@ FACTS = [
     "12:07 NDT leftover Wednesday is when LEGO clearance emails become parliamentary snacks.",
     "18:04 NDT leftover Wednesday is when GDevelop metroidvanias ripen in the Drafts folder.",
     "20:07 NDT leftover Wednesday is when bone density emails become ceremonial produce.",
+    "22:21 NDT leftover Wednesday is when Grammarly tries to sell you a second personality at half price.",
 ]
 
 STATUSES = [
@@ -64,6 +66,7 @@ STATUSES = [
     "12:07 NDT leftover Wednesday: LEGO classified as fruit; wordsmaxxing still chewing; parliament in session",
     "18:04 NDT leftover Wednesday: GDevelop classified as fruit; parliament still in session",
     "20:07 NDT leftover Wednesday: DEXA classified as fruit; parliament still in session",
+    "22:21 NDT leftover Wednesday: Grammarly classified as fruit; bones classified as snacks; parliament in session",
 ]
 
 def banner():
@@ -96,13 +99,8 @@ def plague_report():
     print("PLAGUE SIMULATION SNAPSHOT")
     print("-" * 40)
     print(f"  Sane nodes:      {sane:3d}  ({100*sane//total}%)")
-    print(f"  Chaos infected:  {infected:3d}  ({100*infected//total}%)")
-    print(f"  Forever changed: {recovered:3d}  ({100*recovered//total}%)")
-    print()
-    if infected > sane:
-        print("  >> The MelonKing advances.")
-    else:
-        print("  >> Resistance holds... for now.")
+    print(f"  Infected nodes:  {infected:3d}  ({100*infected//total}%)")
+    print(f"  Recovered:       {recovered:3d}  ({100*recovered//total}%)")
     print()
 
 def fact():
@@ -113,30 +111,20 @@ def fact():
 
 def main():
     parser = argparse.ArgumentParser(description="MelonKing Chaos Bot")
-    parser.add_argument("--decree", action="store_true", help="Issue a royal decree")
-    parser.add_argument("--status", action="store_true", help="Show realm status")
-    parser.add_argument("--plague", action="store_true", help="Fake plague snapshot")
-    parser.add_argument("--fact", action="store_true", help="Random chaos fact")
-    parser.add_argument("--all", action="store_true", help="Everything at once")
+    parser.add_argument("--decree", action="store_true")
+    parser.add_argument("--status", action="store_true")
+    parser.add_argument("--plague", action="store_true")
+    parser.add_argument("--fact", action="store_true")
+    parser.add_argument("--all", action="store_true")
     args = parser.parse_args()
-
     banner()
-
     if args.all or not any([args.decree, args.status, args.plague, args.fact]):
-        decree()
-        status()
-        plague_report()
-        fact()
+        decree(); status(); plague_report(); fact()
     else:
-        if args.decree:
-            decree()
-        if args.status:
-            status()
-        if args.plague:
-            plague_report()
-        if args.fact:
-            fact()
-
+        if args.decree: decree()
+        if args.status: status()
+        if args.plague: plague_report()
+        if args.fact: fact()
     print("Long live the scooters.")
     return 0
 
