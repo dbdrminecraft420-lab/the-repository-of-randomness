@@ -37,6 +37,7 @@ DECREES = [
     "15:00 NDT leftover Thursday: Base44 phone calls are ceremonial scooters. Wordle-in-1 is fruit. Drafts stay drafts.",
     "17:00 NDT leftover Thursday: CD Baby revenue streams are ceremonial scooters. Vice City boxes ripen in November. Drafts stay drafts.",
     "21:00 NDT leftover Thursday: NYT Maine polls are ceremonial fruit. CD Baby revenue is scooters. Vice City boxes remain November rind.",
+    "01:00 NDT leftover Friday: vidIQ three-month plans are ceremonial produce. Facebook notifications must wear scooter helmets. Drafts stay drafts.",
 ]
 
 FACTS = [
@@ -64,6 +65,7 @@ FACTS = [
     "15:00 NDT leftover Thursday is when Base44 phone calls ripen into imaginary scooter dispatch.",
     "17:00 NDT leftover Thursday is when CD Baby asks how many scooters you have and Rockstar boxes become fruit.",
     "21:00 NDT leftover Thursday is when Maine polls become fruit and Vice City boxes wait until November.",
+    "01:00 NDT leftover Friday is when vidIQ job-to-YouTube plans ripen into stationery and 18 Facebook pings share one helmet.",
 ]
 
 STATUSES = [
@@ -88,6 +90,7 @@ STATUSES = [
     "15:00 NDT leftover Thursday: Base44 classified as scooter dispatcher; Wordle classified as fruit; parliament leftover",
     "17:00 NDT leftover Thursday: CD Baby classified as fruit; Vice City box classified as November rind; parliament leftover",
     "21:00 NDT leftover Thursday: Maine polls classified as fruit; Vice City box classified as November rind; parliament leftover",
+    "01:00 NDT leftover Friday: vidIQ classified as fruit; Facebook classified as produce; parliament leftover",
 ]
 
 def banner():
