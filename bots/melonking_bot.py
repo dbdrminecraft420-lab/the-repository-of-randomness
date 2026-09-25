@@ -24,6 +24,7 @@ DECREES = [
     "Triple-skill mashups are legal after 22:00 NDT.",
     "03:00 NDT leftover Friday: The World newsletter is ceremonial produce. vidIQ plans wear helmets. Drafts stay drafts.",
     "04:02 NDT leftover Friday: UN speeches ripen into scooter briefings. Facebook parliament has 18 seats. Drafts remain unsent.",
+    "07:01 NDT leftover Friday: inspect no melon. Calendar events are fruit. Voice clips count as civic announcements.",
 ]
 
 FACTS = [
@@ -38,6 +39,7 @@ FACTS = [
     "A draft email that is never sent still counts as a conversation with the void.",
     "03:00 NDT leftover Friday is when UN speeches ripen into scooter briefings.",
     "04:02 NDT leftover Friday classifies The World as fruit and vidIQ as produce.",
+    "07:01 NDT leftover Friday taxonomizes calendar events as fruit and voice as parliament.",
 ]
 
 STATUSES = [
@@ -49,6 +51,7 @@ STATUSES = [
     "Triple-skill fusion: unstable but cute",
     "03:00 NDT leftover Friday: NYT classified as fruit; vidIQ classified as produce; parliament leftover",
     "04:02 NDT leftover Friday: fruit cabinet in session; drafts unsent",
+    "07:01 NDT leftover Friday: fruit cabinet reconvened; drafts still unsent",
 ]
 
 def banner():
