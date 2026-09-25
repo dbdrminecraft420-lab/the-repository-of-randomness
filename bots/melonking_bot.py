@@ -23,6 +23,7 @@ DECREES = [
     "Sunday night is official scooter maintenance hour. Meetings may wait in the hallway.",
     "Triple-skill mashups are legal after 22:00 NDT.",
     "03:00 NDT leftover Friday: The World newsletter is ceremonial produce. vidIQ plans wear helmets. Drafts stay drafts.",
+    "04:02 NDT leftover Friday: UN speeches ripen into scooter briefings. Facebook parliament has 18 seats. Drafts remain unsent.",
 ]
 
 FACTS = [
@@ -36,6 +37,7 @@ FACTS = [
     "A Gmail label named CHAOS-Experiment is a civic landmark.",
     "A draft email that is never sent still counts as a conversation with the void.",
     "03:00 NDT leftover Friday is when UN speeches ripen into scooter briefings.",
+    "04:02 NDT leftover Friday classifies The World as fruit and vidIQ as produce.",
 ]
 
 STATUSES = [
@@ -46,6 +48,7 @@ STATUSES = [
     "MelonKing approval rating: absolute",
     "Triple-skill fusion: unstable but cute",
     "03:00 NDT leftover Friday: NYT classified as fruit; vidIQ classified as produce; parliament leftover",
+    "04:02 NDT leftover Friday: fruit cabinet in session; drafts unsent",
 ]
 
 def banner():
