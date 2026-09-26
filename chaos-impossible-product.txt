@@ -1,0 +1,4 @@
+PRODUCT: Pocket Eclipse
+FEATURES: fits in a sock, blocks one sun, refunds weather
+PRICE: 3 compliments and a used battery
+WARRANTY: expires if observed
