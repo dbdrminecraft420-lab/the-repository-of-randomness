@@ -1,0 +1,3 @@
+WARNING: Pure-nonsense leak detected at 15:00 NDT.
+Do not read this file while gravity is optional.
+MelonKing approves this message.
