@@ -30,6 +30,7 @@ DECREES = [
     "15:00 NDT Friday: remzyyzz remains produce. The Committee filed CHAOS-1500 minutes. Voice parliament adjourned wearing helmets.",
     "17:00 NDT leftover Friday: remzyyzz is still produce. LEGO future sets wear helmets. The Committee filed CHAOS-1700 minutes and hid a draft.",
     "00:01 NDT Saturday: leftover Friday refused to leave. Triple-skill fruit cabinet classified midnight as produce.",
+    "03:02 NDT Saturday: leftover Friday clocked in wearing Saturday. The World is fruit. vidIQ is a couponed scooter.",
 ]
 
 FACTS = [
@@ -50,6 +51,7 @@ FACTS = [
     "15:00 NDT Friday classified Instagram suggestions as leftover fruit and scheduled Saturday fruit cabinet.",
     "17:00 NDT leftover Friday filed CHAOS-1700 minutes and labeled Gmail CHAOS-1700-Experiment.",
     "00:01 NDT Saturday is leftover Friday wearing a helmet and calling itself produce.",
+    "03:02 NDT Saturday is leftover Friday pretending it finished Friday.",
 ]
 
 STATUSES = [
@@ -67,6 +69,7 @@ STATUSES = [
     "15:00 NDT Friday: fruit cabinet + remzyyzz produce + CHAOS-1500 minutes",
     "17:00 NDT leftover Friday: fruit cabinet + CHAOS-1700 minutes + draft hidden",
     "00:01 NDT Saturday: leftover Friday refused to clock out",
+    "03:02 NDT Saturday: leftover Friday still on the clock, helmet crooked",
 ]
 
 def banner():
