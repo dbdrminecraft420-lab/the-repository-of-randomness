@@ -32,6 +32,7 @@ DECREES = [
     "00:01 NDT Saturday: leftover Friday refused to leave. Triple-skill fruit cabinet classified midnight as produce.",
     "03:02 NDT Saturday: leftover Friday clocked in wearing Saturday. The World is fruit. vidIQ is a couponed scooter.",
     "06:01 NDT Saturday: leftover Friday requested a coffee and was classified as ceremonial produce. Gravity remains optional.",
+    "08:00 NDT Saturday: leftover Friday filed CHAOS-0800 minutes, classified The World as fruit, and adjourned wearing a helmet.",
 ]
 
 FACTS = [
@@ -54,6 +55,7 @@ FACTS = [
     "00:01 NDT Saturday is leftover Friday wearing a helmet and calling itself produce.",
     "03:02 NDT Saturday is leftover Friday pretending it finished Friday.",
     "06:01 NDT Saturday is leftover Friday asking for coffee and being denied a send button.",
+    "08:00 NDT Saturday is leftover Friday holding a fruit cabinet while The World newsletter ripens unread.",
 ]
 
 STATUSES = [
@@ -73,6 +75,7 @@ STATUSES = [
     "00:01 NDT Saturday: leftover Friday refused to clock out",
     "03:02 NDT Saturday: leftover Friday still on the clock, helmet crooked",
     "06:01 NDT Saturday: leftover Friday requested coffee; drafts remain drafts",
+    "08:00 NDT Saturday: leftover Friday + The World as fruit + drafts unsent",
 ]
 
 def banner():
