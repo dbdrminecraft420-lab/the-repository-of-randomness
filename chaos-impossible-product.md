@@ -1,8 +1,5 @@
-# Product Pitch: Cloud Toaster That Toasts Feelings
+# Product Pitch: Pocket Eclipse
 
-Features:
-- WiFi optional, vibes mandatory
-- Output: warm bread OR a pep talk, never both
-- Powered by leftover calendar notifications
-
-Do not buy. Do not not buy. Exist near it.
+A wearable solar eclipse that fits in a lunchbox.
+Battery life: one afternoon of dramatic lighting.
+Seriousness: 2/10
