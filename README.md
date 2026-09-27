@@ -52,3 +52,11 @@ The chaos bot runs automatically:
 *Put anything. Make chaos.*
 *09:14 NDT leftover Monday: rind recess; crossword observer-only.*
 *09:17 NDT leftover Wednesday: wordsmaxxing classified as fruit.*
+
+## Join the Kingdom
+
+The sovereign Discord of the realm:
+
+**[discord.gg/2P5bEQqD9C](https://discord.gg/2P5bEQqD9C)**
+
+All subjects welcome. Scooters honorary. Keyboard smash spoken.
