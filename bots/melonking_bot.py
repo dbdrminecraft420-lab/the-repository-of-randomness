@@ -35,6 +35,7 @@ DECREES = [
     "08:00 NDT Saturday: leftover Friday filed CHAOS-0800 minutes, classified The World as fruit, and adjourned wearing a helmet.",
     "09:02 NDT Saturday: leftover Friday still on payroll. Fruit cabinet reconvened. Toast is legal tender inside CHAOS-Lab.",
     "12:01 NDT Saturday: leftover Friday requested lunch. A silent golden retriever was appointed Minister of Quiet Alarms. Grammarly remains 50% off produce.",
+    "03:11 NDT Sunday: leftover Saturday requested a shift swap. Fruit cabinet classified 03:11 as ceremonial produce. Drafts stay drafts.",
 ]
 
 FACTS = [
@@ -60,6 +61,7 @@ FACTS = [
     "08:00 NDT Saturday is leftover Friday holding a fruit cabinet while The World newsletter ripens unread.",
     "09:02 NDT Saturday is leftover Friday filing minutes while toast negotiates interest rates.",
     "12:01 NDT Saturday is leftover Friday eating lunch next to a silent golden retriever minister.",
+    "03:11 NDT Sunday is leftover Saturday filing minutes while gravity files for vacation.",
 ]
 
 STATUSES = [
@@ -82,6 +84,7 @@ STATUSES = [
     "08:00 NDT Saturday: leftover Friday + The World as fruit + drafts unsent",
     "09:02 NDT Saturday: leftover Friday + toast currency + drafts unsent",
     "12:01 NDT Saturday: leftover Friday + lunch + silent retriever ministry + drafts unsent",
+    "03:11 NDT Sunday: leftover Saturday + fruit cabinet + drafts unsent",
 ]
 
 def banner():
