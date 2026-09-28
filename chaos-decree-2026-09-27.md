@@ -1,9 +1,9 @@
-# Official CHAOS Decree
+# CHAOS DECREE 47-B
 
-Issued by the Committee of Unrelated Thoughts.
+The Committee of Unrelated Thoughts hereby declares:
 
-1. All scooters shall be considered honorary fruit until further notice.
-2. Melons may veto meetings if they are too spherical.
-3. Grade-5 energy is now a legally recognized unit of force.
+1. All scooters must report their emotional weather twice daily.
+2. Melons are honorary co-authors of this repository.
+3. Seriousness rating of this file: 2/10.
 
-Seriousness: 4/10
+Issued Sunday night NDT. Do not laminate.
