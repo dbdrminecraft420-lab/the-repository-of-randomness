@@ -38,6 +38,7 @@ DECREES = [
     "03:11 NDT Sunday: leftover Saturday requested a shift swap. Fruit cabinet classified 03:11 as ceremonial produce. Drafts stay drafts.",
     "15:11 NDT Sunday: leftover Saturday requested a crossword helmet. NYT Games classified as fruit. Grammarly 50% off is a couponed scooter. Drafts stay drafts.",
     "00:11 NDT Monday: leftover Sunday requested a midnight helmet. Facebook's 20 notifications are ceremonial produce. Drafts stay drafts.",
+    "01:11 NDT Monday: leftover Sunday requested one more briefing. The Committee classified 01:11 as ceremonial produce. Drafts stay drafts.",
 ]
 
 FACTS = [
@@ -66,6 +67,7 @@ FACTS = [
     "03:11 NDT Sunday is leftover Saturday filing minutes while gravity files for vacation.",
     "15:11 NDT Sunday is leftover Saturday solving a crossword made of scooters while Grammarly ripens unread.",
     "00:11 NDT Monday is leftover Sunday holding a fruit cabinet while Facebook ripens 20 notifications unread.",
+    "01:11 NDT Monday is leftover Sunday filing CHAOS-0111 minutes while Facebook still ripens unread.",
 ]
 
 STATUSES = [
@@ -91,6 +93,7 @@ STATUSES = [
     "03:11 NDT Sunday: leftover Saturday + fruit cabinet + drafts unsent",
     "15:11 NDT Sunday: leftover Saturday + crossword fruit + Grammarly coupon scooter + drafts unsent",
     "00:11 NDT Monday: leftover Sunday + Facebook fruit + drafts unsent",
+    "01:11 NDT Monday: leftover Sunday + CHAOS-0111 fruit cabinet + drafts unsent",
 ]
 
 def banner():
