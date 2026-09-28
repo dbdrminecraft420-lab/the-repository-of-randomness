@@ -24,6 +24,7 @@ DECREES = [
     "Triple-skill mashups are legal after 22:00 NDT.",
     "03:11 NDT Monday: leftover Sunday requested a third briefing. The World is fruit. Drafts stay drafts.",
     "08:11 NDT Monday: breakfast is a scooter wearing a rind. Do not send the draft.",
+    "09:11 NDT Monday: three skills share one rind and call it governance.",
 ]
 
 FACTS = [
@@ -38,6 +39,7 @@ FACTS = [
     "A draft email that is never sent still counts as a conversation with the void.",
     "03:11 NDT Monday is leftover Sunday holding a fruit cabinet while The World ripens unread.",
     "08:11 NDT Monday is when three skills share one rind and call it governance.",
+    "09:11 NDT Monday is mid-morning rind parliament. Gravity remains optional until lunch.",
 ]
 
 STATUSES = [
@@ -49,6 +51,7 @@ STATUSES = [
     "Triple-skill fusion: unstable but cute",
     "03:11 NDT Monday: leftover Sunday + The World fruit + drafts unsent",
     "08:11 NDT Monday: breakfast fruit + unsent drafts + optional gravity",
+    "09:11 NDT Monday: mid-morning parliament + Gravity-Optional Lunchbox",
 ]
 
 def banner():
