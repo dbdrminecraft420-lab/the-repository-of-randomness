@@ -25,6 +25,7 @@ DECREES = [
     "03:11 NDT Monday: leftover Sunday requested a third briefing. The World is fruit. Drafts stay drafts.",
     "08:11 NDT Monday: breakfast is a scooter wearing a rind. Do not send the draft.",
     "09:11 NDT Monday: three skills share one rind and call it governance.",
+    "13:11 NDT Monday: the hallway between two hallways is now a parliament. Tuesday is a fruit pending appeal.",
 ]
 
 FACTS = [
@@ -40,6 +41,7 @@ FACTS = [
     "03:11 NDT Monday is leftover Sunday holding a fruit cabinet while The World ripens unread.",
     "08:11 NDT Monday is when three skills share one rind and call it governance.",
     "09:11 NDT Monday is mid-morning rind parliament. Gravity remains optional until lunch.",
+    "13:11 NDT Monday is when a scooter files a pull request against gravity and gravity leaves a review of 'several'.",
 ]
 
 STATUSES = [
@@ -52,6 +54,7 @@ STATUSES = [
     "03:11 NDT Monday: leftover Sunday + The World fruit + drafts unsent",
     "08:11 NDT Monday: breakfast fruit + unsent drafts + optional gravity",
     "09:11 NDT Monday: mid-morning parliament + Gravity-Optional Lunchbox",
+    "13:11 NDT Monday: hallway parliament + Tuesday-as-fruit appeal + unsent rind",
 ]
 
 def banner():
