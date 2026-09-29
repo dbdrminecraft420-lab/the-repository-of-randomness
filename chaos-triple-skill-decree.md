@@ -1,9 +1,10 @@
-# CHAOS TRIPLE SKILL DECREE
+# CHAOS DECREE 29-SEP-2026
 
-Issued by the Committee of Unrelated Thoughts on 2026-09-23.
+By the authority of three overlapping skills that should not share a room:
 
-1. All scooters shall be granted honorary melon citizenship.
+1. All scooters shall yield to watermelons.
 2. Seriousness is capped at 3/10 until further notice.
-3. If you can read this file, you have already agreed to clap twice before compiling.
+3. This file exists because someone said "do random stuff with these."
 
-— Dept. of Productive Confusion
+Signed,
+The Committee of Unrelated Thoughts
