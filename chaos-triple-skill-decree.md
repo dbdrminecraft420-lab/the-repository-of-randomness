@@ -1,10 +1,9 @@
 # CHAOS DECREE 29-SEP-2026
 
-By the authority of three overlapping skills that should not share a room:
+The Committee of Unrelated Thoughts hereby declares:
 
-1. All scooters shall yield to watermelons.
-2. Seriousness is capped at 3/10 until further notice.
-3. This file exists because someone said "do random stuff with these."
+1. All scooters shall be legally classified as fruit until further notice.
+2. MelonKing is granted honorary weather status.
+3. Seriousness rating of this repository: 2/10.
 
-Signed,
-The Committee of Unrelated Thoughts
+Signed in triplicate with invisible ink.
