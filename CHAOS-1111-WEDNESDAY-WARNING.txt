@@ -1,0 +1,2 @@
+WARNING: do not interpret this warning. Interpreting warnings causes extra rinds.
+Seriousness: 2/10
