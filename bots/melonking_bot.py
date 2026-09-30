@@ -33,6 +33,7 @@ DECREES = [
     "21:11 NDT Tuesday: evening rind parliament. Grammarly is quiet fruit. NYT sale sits in the gallery. Drafts stay drafts.",
     "06:11 NDT Wednesday: leftover hallway parliament. vidIQ, GDevelop, and The World are ceremonial fruit. Invisible melons meet tomorrow for 17 minutes.",
     "07:11 NDT Wednesday: breakfast rind parliament. Three skills share one melon. Drafts stay drafts. Gravity files a minority report.",
+    "13:11 NDT Wednesday: afternoon rind parliament. Three skills share one scooter. Thursday is a fruit pending appeal. Invisible melon meets tomorrow at 15:00 NDT.",
 ]
 
 FACTS = [
@@ -56,6 +57,7 @@ FACTS = [
     "21:11 NDT Tuesday is when Grammarly reports a quiet week and parliament classifies silence as produce.",
     "06:11 NDT Wednesday is when leftover minutes elect a mayor made of rind and adjourn into a salad.",
     "07:11 NDT Wednesday is when breakfast becomes a quorum and vidIQ is seated as ceremonial fruit.",
+    "13:11 NDT Wednesday is when afternoon minutes elect a scooter as speaker and file NYT Games under produce.",
 ]
 
 STATUSES = [
@@ -76,6 +78,7 @@ STATUSES = [
     "21:11 NDT Tuesday: evening parliament + quiet Grammarly fruit + unsent rind",
     "06:11 NDT Wednesday: leftover parliament + vidIQ fruit + unsent rind + 17-minute melon meeting",
     "07:11 NDT Wednesday: breakfast parliament + three-skill rind + drafts unsent",
+    "13:11 NDT Wednesday: afternoon parliament + Thursday-as-fruit + unsent rind + 17-minute melon meeting",
 ]
 
 def banner():
