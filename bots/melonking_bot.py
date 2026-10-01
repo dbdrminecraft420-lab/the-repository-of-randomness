@@ -6,12 +6,14 @@ DECREES = [
     "By royal decree: scooters are now emergency vehicles.",
     "05:11 NDT Thursday: pre-breakfast rind parliament. NYT World briefing is fruit. Drafts stay drafts.",
     "Long live the scooters. Long live the MelonKing.",
+    "06:11 NDT Thursday: gravity filed a minority report. Failed workflows are ceremonial fruit. Drafts stay drafts.",
 ]
 FACTS = [
     "The Repository of Randomness is an official chaos sanctuary.",
     "05:11 NDT Thursday is when the World briefing ripens as fruit and toast files a minority report.",
+    "06:11 NDT Thursday is when the melon audits breakfast and declares scooters still senators.",
 ]
-STATUSES = ["Chaos levels: elevated", "05:11 NDT Thursday: pre-breakfast parliament + NYT World fruit + unsent rind"]
+STATUSES = ["Chaos levels: elevated", "05:11 NDT Thursday: pre-breakfast parliament + NYT World fruit + unsent rind", "06:11 NDT Thursday: triple-skill rind parliament + unsent draft"]
 def main():
     print("MELONKING CHAOS BOT")
     print(random.choice(DECREES))
