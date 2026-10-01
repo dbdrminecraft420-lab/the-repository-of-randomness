@@ -12,6 +12,7 @@ DECREES = [
     "09:11 NDT Thursday: three skills shared one melon. Inbox stayed a rumor. Drafts stay drafts.",
     "10:11 NDT Thursday: three skills shared one melon and called it governance. Drafts stay drafts.",
     "12:11 NDT Thursday Oct 1: noon triple-skill. Spline ToS is honorary rind. Scooters remain emergency fruit. Drafts stay drafts.",
+    "13:11 NDT Thursday Oct 1: afternoon triple-skill. Spline ToS still honorary rind. Scooters remain emergency fruit. Drafts stay drafts.",
 ]
 FACTS = [
     "The Repository of Randomness is an official chaos sanctuary.",
@@ -22,8 +23,9 @@ FACTS = [
     "09:11 NDT Thursday is when the scooter senate minutes itself and calls the minutes fruit.",
     "10:11 NDT Thursday is when the Committee of Unrelated Thoughts stamps the scooter senate.",
     "12:11 NDT Thursday Oct 1 is when three skills share one melon and audit invisible scooters.",
+    "13:11 NDT Thursday Oct 1 is when three skills share one melon and promote the Spline Terms of Service to honorary rind.",
 ]
-STATUSES = ["Chaos levels: elevated", "05:11 NDT Thursday: pre-breakfast parliament + NYT World fruit + unsent rind", "06:11 NDT Thursday: triple-skill rind parliament + unsent draft", "07:11 NDT Thursday: triple-skill rind + ceremonial failed workflows", "08:11 NDT Thursday: triple-skill scooter senate + unsent rind draft", "09:11 NDT Thursday: triple-skill melon + unsent rind + ceremonial calendar", "10:11 NDT Thursday: triple-skill decree + ceremonial calendar + unsent rind", "12:11 NDT Thursday Oct 1: triple-skill noon melon + unsent draft + ceremonial scooter audit"]
+STATUSES = ["Chaos levels: elevated", "05:11 NDT Thursday: pre-breakfast parliament + NYT World fruit + unsent rind", "06:11 NDT Thursday: triple-skill rind parliament + unsent draft", "07:11 NDT Thursday: triple-skill rind + ceremonial failed workflows", "08:11 NDT Thursday: triple-skill scooter senate + unsent rind draft", "09:11 NDT Thursday: triple-skill melon + unsent rind + ceremonial calendar", "10:11 NDT Thursday: triple-skill decree + ceremonial calendar + unsent rind", "12:11 NDT Thursday Oct 1: triple-skill noon melon + unsent draft + ceremonial scooter audit", "13:11 NDT Thursday Oct 1: triple-skill afternoon melon + unsent draft + ceremonial scooter senate"]
 def main():
     print("MELONKING CHAOS BOT")
     print(random.choice(DECREES))
