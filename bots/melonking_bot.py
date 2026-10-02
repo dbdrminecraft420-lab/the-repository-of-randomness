@@ -19,6 +19,7 @@ DECREES = [
     "18:11 NDT Thursday Oct 1: triple-skill. Rockstar Halloween is ceremonial pumpkin. CD Baby is a grape question. Drafts stay drafts.",
     "19:11 NDT Thursday Oct 1: triple-skill. Facebook notifications are honorary rind. Scooters remain emergency fruit. Drafts stay drafts.",
     "20:11 NDT Thursday Oct 1: triple-skill. Three skills shared one melon and called the exit a rumor. Drafts stay drafts.",
+    "23:11 NDT Thursday Oct 1: triple-skill. Three skills shared one melon and called the clock a rumor. Drafts stay drafts.",
 ]
 FACTS = [
     "The Repository of Randomness is an official chaos sanctuary.",
@@ -36,8 +37,9 @@ FACTS = [
     "18:11 NDT Thursday Oct 1 is when three skills share one melon and appoint a Halloween newsletter as ceremonial pumpkin.",
     "19:11 NDT Thursday Oct 1 is when three skills share one melon and appoint Facebook notifications as honorary rind.",
     "20:11 NDT Thursday Oct 1 is when three skills share one melon and declare the exit a rumor.",
+    "23:11 NDT Thursday Oct 1 is when three skills share one melon and declare the clock a rumor.",
 ]
-STATUSES = ["Chaos levels: elevated", "05:11 NDT Thursday: pre-breakfast parliament + NYT World fruit + unsent rind", "06:11 NDT Thursday: triple-skill rind parliament + unsent draft", "07:11 NDT Thursday: triple-skill rind + ceremonial failed workflows", "08:11 NDT Thursday: triple-skill scooter senate + unsent rind draft", "09:11 NDT Thursday: triple-skill melon + unsent rind + ceremonial calendar", "10:11 NDT Thursday: triple-skill decree + ceremonial calendar + unsent rind", "12:11 NDT Thursday Oct 1: triple-skill noon melon + unsent draft + ceremonial scooter audit", "13:11 NDT Thursday Oct 1: triple-skill afternoon melon + unsent draft + ceremonial scooter senate", "14:31 NDT Thursday Oct 1: triple-skill late melon + unsent draft + ceremonial YouTube rind", "16:11 NDT Thursday Oct 1: triple-skill melon + unsent draft + ceremonial Rockstar rind", "17:11 NDT Thursday Oct 1: triple-skill melon + unsent draft + ceremonial CD Baby grape", "18:11 NDT Thursday Oct 1: triple-skill melon + unsent draft + ceremonial pumpkin rind", "19:11 NDT Thursday Oct 1: triple-skill melon + unsent draft + ceremonial Facebook rind", "20:11 NDT Thursday Oct 1: triple-skill melon + unsent draft + ceremonial exit rumor"]
+STATUSES = ["Chaos levels: elevated", "05:11 NDT Thursday: pre-breakfast parliament + NYT World fruit + unsent rind", "06:11 NDT Thursday: triple-skill rind parliament + unsent draft", "07:11 NDT Thursday: triple-skill rind + ceremonial failed workflows", "08:11 NDT Thursday: triple-skill scooter senate + unsent rind draft", "09:11 NDT Thursday: triple-skill melon + unsent rind + ceremonial calendar", "10:11 NDT Thursday: triple-skill decree + ceremonial calendar + unsent rind", "12:11 NDT Thursday Oct 1: triple-skill noon melon + unsent draft + ceremonial scooter audit", "13:11 NDT Thursday Oct 1: triple-skill afternoon melon + unsent draft + ceremonial scooter senate", "14:31 NDT Thursday Oct 1: triple-skill late melon + unsent draft + ceremonial YouTube rind", "16:11 NDT Thursday Oct 1: triple-skill melon + unsent draft + ceremonial Rockstar rind", "17:11 NDT Thursday Oct 1: triple-skill melon + unsent draft + ceremonial CD Baby grape", "18:11 NDT Thursday Oct 1: triple-skill melon + unsent draft + ceremonial pumpkin rind", "19:11 NDT Thursday Oct 1: triple-skill melon + unsent draft + ceremonial Facebook rind", "20:11 NDT Thursday Oct 1: triple-skill melon + unsent draft + ceremonial exit rumor", "23:11 NDT Thursday Oct 1: triple-skill melon + unsent draft + ceremonial clock rumor"]
 def main():
     print("MELONKING CHAOS BOT")
     print(random.choice(DECREES))
