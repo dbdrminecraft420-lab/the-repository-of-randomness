@@ -22,6 +22,7 @@ A sanctuary for chaos, scooters, and the MelonKing.
 | `random-seed.py` | Tiny chaos seed generator |
 | `CHAOS-0914-WARNING.txt` | Mid-morning rind recess notice |
 | `CHAOS-0917-WARNING.txt` | 09:17 NDT leftover Wednesday rind recess |
+| `chaos-0811-breakfast-rumor.md` | 08:11 NDT Friday clock filed as a post-breakfast rumor |
 
 ## Play the game
 
@@ -52,6 +53,7 @@ The chaos bot runs automatically:
 *Put anything. Make chaos.*
 *09:14 NDT leftover Monday: rind recess; crossword observer-only.*
 *09:17 NDT leftover Wednesday: wordsmaxxing classified as fruit.*
+*08:11 NDT Friday Oct 2: the clock is a post-breakfast rumor.*
 
 ## Join the Kingdom
 
