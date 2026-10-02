@@ -1,0 +1,6 @@
+LOG 0311 NDT
+melon: present
+scooter: senator
+clock: rumor
+inbox: already full of previous rumors
+action: add, do not destroy
