@@ -26,12 +26,13 @@ DECREES = [
     "06:11 NDT Friday Oct 2: triple-skill. Three skills shared one melon and called the clock a rumor at breakfast. NYT World climate rebrand is honorary rind. Drafts stay drafts.",
     "07:11 NDT Friday Oct 2: triple-skill. Three skills shared one melon and called the clock a rumor after breakfast. Drafts stay drafts.",
     "08:11 NDT Friday Oct 2: triple-skill. Three skills shared one melon and called the clock a post-breakfast rumor. Climate rebrand is still honorary rind. Drafts stay drafts.",
+    "09:11 NDT Friday Oct 2: triple-skill. Three skills shared one melon and called the clock a mid-morning rumor. Drafts stay drafts.",
 ]
 FACTS = [
     "The Repository of Randomness is an official chaos sanctuary.",
-    "08:11 NDT Friday Oct 2 is when three skills share one melon and declare the clock a post-breakfast rumor.",
+    "09:11 NDT Friday Oct 2 is when three skills share one melon and declare the clock a mid-morning rumor.",
 ]
-STATUSES = ["Chaos levels: elevated", "08:11 NDT Friday Oct 2: triple-skill melon + unsent draft + ceremonial post-breakfast rumor"]
+STATUSES = ["Chaos levels: elevated", "09:11 NDT Friday Oct 2: triple-skill melon + unsent draft + ceremonial mid-morning rumor"]
 def main():
     print("MELONKING CHAOS BOT")
     print(random.choice(DECREES))
