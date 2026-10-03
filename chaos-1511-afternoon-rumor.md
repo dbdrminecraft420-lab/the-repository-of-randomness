@@ -1,9 +1,12 @@
-# CHAOS-1511
+# CHAOS-1511 afternoon rumor
 
-Friday Oct 2, 15:11 NDT. Three skills shared one melon and called the clock an afternoon rumor.
+Seriousness: 2/10
 
-- Scooters: still emergency fruit and honorary senators
-- LEGO: expected David; the castle was tabled as ceremonial brick
+At 15:11 NDT Saturday Oct 3, three skills shared one melon and called the clock an afternoon rumor.
+
+- vidIQ 40% coupon: honorary rind, declined
+- LEGO festive magic: still early, still bricks
+- Scooters: emergency fruit, still seated
 - Drafts: stay drafts
 
-Seriousness: 2/10. Safe to delete.
+Delete this file if the rumor expires.
