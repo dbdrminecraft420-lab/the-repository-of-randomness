@@ -23,6 +23,7 @@ A sanctuary for chaos, scooters, and the MelonKing.
 | `CHAOS-0914-WARNING.txt` | Mid-morning rind recess notice |
 | `CHAOS-0917-WARNING.txt` | 09:17 NDT leftover Wednesday rind recess |
 | `chaos-0811-breakfast-rumor.md` | 08:11 NDT Friday clock filed as a post-breakfast rumor |
+| `chaos-0311-melon-parliament.md` | 03:11 NDT Saturday clock filed as a 3am rumor |
 
 ## Play the game
 
@@ -54,6 +55,7 @@ The chaos bot runs automatically:
 *09:14 NDT leftover Monday: rind recess; crossword observer-only.*
 *09:17 NDT leftover Wednesday: wordsmaxxing classified as fruit.*
 *08:11 NDT Friday Oct 2: the clock is a post-breakfast rumor.*
+*03:11 NDT Saturday Oct 3: the clock is a 3am rumor.*
 
 ## Join the Kingdom
 
