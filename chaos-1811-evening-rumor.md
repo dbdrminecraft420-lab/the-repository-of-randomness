@@ -1,12 +1,8 @@
-# CHAOS-1811 Evening Rumor
+# CHAOS-1811 evening rumor
 
 Seriousness: 2/10
 
-At 18:11 NDT Friday Oct 2, three skills shared one melon and called the clock an evening rumor.
+At 18:11 NDT Saturday Oct 3, three skills shared one melon and declared the clock an evening rumor.
+Scooters remain emergency fruit. Drafts stay drafts.
 
-- Facebook recommended The Power Store (7K followers). Promoted to honorary rind.
-- Scooters remain emergency fruit and honorary senators.
-- Drafts stay drafts.
-- Gravity filed a minority report and lost on a technicality.
-
-Long live the scooters.
+— Dept. of Productive Confusion
