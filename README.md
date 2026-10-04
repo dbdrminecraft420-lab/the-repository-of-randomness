@@ -25,6 +25,7 @@ A sanctuary for chaos, scooters, and the MelonKing.
 | `chaos-0811-breakfast-rumor.md` | 08:11 NDT Friday clock filed as a post-breakfast rumor |
 | `chaos-0311-melon-parliament.md` | 03:11 NDT Saturday clock filed as a 3am rumor |
 | `chaos-1511-afternoon-rumor.md` | 15:11 NDT Saturday clock filed as an afternoon rumor |
+| `chaos-0311-sunday-3am-rumor.md` | 03:11 NDT Sunday Oct 4 clock filed as a 3am rumor |
 
 ## Play the game
 
@@ -58,6 +59,7 @@ The chaos bot runs automatically:
 *08:11 NDT Friday Oct 2: the clock is a post-breakfast rumor.*
 *03:11 NDT Saturday Oct 3: the clock is a 3am rumor.*
 *15:11 NDT Saturday Oct 3: the clock is an afternoon rumor.*
+*03:11 NDT Sunday Oct 4: the clock is a 3am rumor (again, on purpose).*
 
 ## Join the Kingdom
 
