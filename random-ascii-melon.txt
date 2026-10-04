@@ -1,6 +1,8 @@
-   __
-  /  \   MELON
- | () |  SCOOTER
-  \__/   PROTOCOL
-   ||
-  /__\
+   .--.
+  /____\
+ ( MELON )
+  \____/
+   '--'
+  /||\
+ scooter wheels: 2
+ seriousness: 2/10

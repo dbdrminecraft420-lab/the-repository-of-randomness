@@ -1,9 +1,12 @@
-# CHAOS DECREE 29-SEP-2026
+# CHAOS TRIPLE-SKILL DECREE
 
-The Committee of Unrelated Thoughts hereby declares:
+Issued when connected-chaos, pure-nonsense, and repo-of-randomness briefly shared a single scooter.
 
-1. All scooters shall be legally classified as fruit until further notice.
-2. MelonKing is granted honorary weather status.
-3. Seriousness rating of this repository: 2/10.
+## Decree 47-B
 
-Signed in triplicate with invisible ink.
+All melons are honorary mayors of folders named CHAOS-.
+Scooters outrank calendars on Tuesdays that are actually Saturdays.
+Grade-5 energy is the official currency of this repository.
+
+Signed,
+The Committee of Unrelated Thoughts
