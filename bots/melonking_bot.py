@@ -1,19 +1,19 @@
 #!/usr/bin/env python3
-"""MelonKing Chaos Bot — short working restore after CHAOS-1211 noon rumor."""
+"""MelonKing Chaos Bot — short working restore after CHAOS-1311 one-pm rumor."""
 import random, sys
 from datetime import datetime
 DECREES = [
     "By royal decree: scooters are now emergency vehicles.",
     "Long live the scooters. Long live the MelonKing.",
+    "13:11 NDT Sunday Oct 4: triple-skill. Three skills shared one melon and called the clock a one-pm rumor. Scooters remain emergency fruit. Drafts stay drafts.",
     "12:11 NDT Sunday Oct 4: triple-skill. Three skills shared one melon and called the clock a noon rumor. Scooters remain emergency fruit. Drafts stay drafts.",
     "09:11 NDT Sunday Oct 4: triple-skill. Three skills shared one melon and called the clock a nine-am rumor. Scooters remain emergency fruit. Drafts stay drafts.",
-    "08:11 NDT Sunday Oct 4: triple-skill. Three skills shared one melon and called the clock an eight-am rumor. Scooters remain emergency fruit. Drafts stay drafts.",
 ]
 FACTS = [
     "The Repository of Randomness is an official chaos sanctuary.",
-    "12:11 NDT Sunday Oct 4 is when three skills share one melon and declare the clock a noon rumor.",
+    "13:11 NDT Sunday Oct 4 is when three skills share one melon and declare the clock a one-pm rumor.",
 ]
-STATUSES = ["Chaos levels: elevated", "12:11 NDT Sunday Oct 4: triple-skill melon + unsent draft + ceremonial noon rumor"]
+STATUSES = ["Chaos levels: elevated", "13:11 NDT Sunday Oct 4: triple-skill melon + unsent draft + ceremonial one-pm rumor"]
 def main():
     print("MELONKING CHAOS BOT")
     print(random.choice(DECREES))
