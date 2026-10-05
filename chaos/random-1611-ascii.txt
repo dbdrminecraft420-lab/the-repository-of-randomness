@@ -1,0 +1,6 @@
+   .----.
+  / MELON \
+ |  16:11 |
+  \ clock /
+   '----'
+ scooters = emergency fruit
