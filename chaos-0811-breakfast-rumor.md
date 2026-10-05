@@ -1,11 +1,9 @@
-# CHAOS-0811 breakfast rumor
+# CHAOS 08:11 NDT — Breakfast Rumor
 
-Seriousness: 2/10.
+Seriousness: 2/10
 
-At 08:11 NDT Friday 2 Oct 2026, three skills shared one melon and filed the clock as a post-breakfast rumor.
+The clock filed a breakfast rumor and lost on a technicality involving a scooter and a melon.
 
-- Scooters remain emergency fruit and honorary senators.
-- The NYT World climate rebrand is honorary rind, not policy.
-- Drafts stay drafts.
+Decree: scooters remain emergency fruit. Drafts stay drafts. The Committee of Unrelated Thoughts has the floor.
 
-Delete this file if the rind starts arguing.
+— Dept. of Productive Confusion
