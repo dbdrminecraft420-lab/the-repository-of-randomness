@@ -1,23 +1,19 @@
 #!/usr/bin/env python3
-"""MelonKing Chaos Bot — short working restore after CHAOS 11:18 late-morning rumor."""
+"""MelonKing Chaos Bot — short working restore after CHAOS 12:11 noon rumor."""
 import random, sys
 from datetime import datetime
 DECREES = [
     "By royal decree: scooters are now emergency vehicles.",
     "Long live the scooters. Long live the MelonKing.",
+    "12:11 NDT Monday Oct 5: triple-skill. Three skills shared one melon and called noon a rumor that arrived fifteen minutes late. Scooters remain emergency fruit. Drafts stay drafts.",
     "11:18 NDT Monday Oct 5: triple-skill. Three skills shared one melon and called the clock a late-morning rumor that missed its own meeting. Scooters remain emergency fruit. Drafts stay drafts.",
     "10:14 NDT Monday Oct 5: triple-skill. Three skills shared one melon and called the clock a late-morning rumor. Scooters remain emergency fruit. Drafts stay drafts.",
-    "08:11 NDT Monday Oct 5: triple-skill. Three skills shared one melon and called the clock a breakfast rumor. Scooters remain emergency fruit. Drafts stay drafts.",
-    "07:11 NDT Monday Oct 5: triple-skill. Three skills shared one melon and called the clock a breakfast rumor. Scooters remain emergency fruit. Drafts stay drafts.",
-    "05:11 NDT Monday Oct 5: triple-skill. Three skills shared one melon and called the clock a five-am rumor. Scooters remain emergency fruit. Drafts stay drafts.",
-    "02:11 NDT Monday Oct 5: triple-skill. Three skills shared one melon and called the clock a leftover rumor. Scooters remain emergency fruit. Drafts stay drafts.",
-    "23:11 NDT Sunday Oct 4: triple-skill. Three skills shared one melon and called the clock a late rumor. Scooters remain emergency fruit. Drafts stay drafts.",
 ]
 FACTS = [
     "The Repository of Randomness is an official chaos sanctuary.",
-    "11:18 NDT Monday Oct 5 is when three skills share one melon and declare the clock a late-morning rumor that missed its own meeting.",
+    "12:11 NDT Monday Oct 5 is when three skills share one melon and declare noon a rumor that arrived late.",
 ]
-STATUSES = ["Chaos levels: elevated", "11:18 NDT Monday Oct 5: triple-skill melon + unsent draft + ceremonial late-morning rumor"]
+STATUSES = ["Chaos levels: elevated", "12:11 NDT Monday Oct 5: triple-skill melon + unsent draft + ceremonial noon rumor"]
 def main():
     print("MELONKING CHAOS BOT")
     print(random.choice(DECREES))
