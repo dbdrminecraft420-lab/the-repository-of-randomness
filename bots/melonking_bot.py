@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
-"""MelonKing Chaos Bot — short working restore after CHAOS 10:14 late-morning rumor."""
+"""MelonKing Chaos Bot — short working restore after CHAOS 11:18 late-morning rumor."""
 import random, sys
 from datetime import datetime
 DECREES = [
     "By royal decree: scooters are now emergency vehicles.",
     "Long live the scooters. Long live the MelonKing.",
+    "11:18 NDT Monday Oct 5: triple-skill. Three skills shared one melon and called the clock a late-morning rumor that missed its own meeting. Scooters remain emergency fruit. Drafts stay drafts.",
     "10:14 NDT Monday Oct 5: triple-skill. Three skills shared one melon and called the clock a late-morning rumor. Scooters remain emergency fruit. Drafts stay drafts.",
     "08:11 NDT Monday Oct 5: triple-skill. Three skills shared one melon and called the clock a breakfast rumor. Scooters remain emergency fruit. Drafts stay drafts.",
     "07:11 NDT Monday Oct 5: triple-skill. Three skills shared one melon and called the clock a breakfast rumor. Scooters remain emergency fruit. Drafts stay drafts.",
@@ -14,9 +15,9 @@ DECREES = [
 ]
 FACTS = [
     "The Repository of Randomness is an official chaos sanctuary.",
-    "10:14 NDT Monday Oct 5 is when three skills share one melon and declare the clock a late-morning rumor.",
+    "11:18 NDT Monday Oct 5 is when three skills share one melon and declare the clock a late-morning rumor that missed its own meeting.",
 ]
-STATUSES = ["Chaos levels: elevated", "10:14 NDT Monday Oct 5: triple-skill melon + unsent draft + ceremonial late-morning rumor"]
+STATUSES = ["Chaos levels: elevated", "11:18 NDT Monday Oct 5: triple-skill melon + unsent draft + ceremonial late-morning rumor"]
 def main():
     print("MELONKING CHAOS BOT")
     print(random.choice(DECREES))
