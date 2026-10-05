@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html><head><title>Pickle Oracle</title></head>
+<body style="background:#123;color:#9f9;font-family:monospace;padding:2rem">
+<h1>CHAOS Pickle Oracle</h1>
+<p>Ask nothing. Receive a decree.</p>
+<pre id="o">consulting the brine...</pre>
+<script>
+const lines = [
+  "A scooter left its shoes in the hallway of time.",
+  "MelonKing rates this Tuesday a confident maybe.",
+  "The spreadsheet achieved sentience and asked for napkins.",
+  "Grade 5 declares all clocks optional until lunch."
+];
+document.getElementById("o").textContent = lines[Math.floor(Math.random()*lines.length)];
+</script>
+</body></html>

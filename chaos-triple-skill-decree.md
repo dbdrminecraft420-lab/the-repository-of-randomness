@@ -1,12 +1,11 @@
-# CHAOS TRIPLE-SKILL DECREE
+# Decree of the Triple Skill
 
-Issued when connected-chaos, pure-nonsense, and repo-of-randomness briefly shared a single scooter.
+Issued by the Committee of Unrelated Thoughts on 2026-10-05.
 
-## Decree 47-B
-
-All melons are honorary mayors of folders named CHAOS-.
-Scooters outrank calendars on Tuesdays that are actually Saturdays.
-Grade-5 energy is the official currency of this repository.
+1. Melons are scooters that learned patience.
+2. Grade 5 is a sovereign nation with no borders and one snack policy.
+3. Randomness is a filing system. Chaos is the label.
+4. If this file survives, the repository has accepted its destiny.
 
 Signed,
-The Committee of Unrelated Thoughts
+MelonKing, Dept. of Productive Confusion
